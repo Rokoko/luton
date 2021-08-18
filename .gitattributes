@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Content/Maps/FrontStreet_BackAlley_fox_BuiltData.uasset filter=lfs diff=lfs merge=lfs -text
+Intermediate/Build/Win64/UE4Editor/Development/Engine/SharedPCH.Engine.ShadowErrors.h.pch filter=lfs diff=lfs merge=lfs -text
+Intermediate/Build/Win64/UE4Editor/Development/UnrealEd/SharedPCH.UnrealEd.ShadowErrors.h.pch filter=lfs diff=lfs merge=lfs -text
