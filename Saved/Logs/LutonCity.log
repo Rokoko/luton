@@ -1462,3 +1462,421 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.19-09.20.02:357][385]LogLinker: Warning: Failed to load '/Game/Maps/FrontStreet_BackAlley_fox': Can't find file.
 [2021.08.19-09.20.02:357][385]LogLinker: Warning: Failed to load '/Game/Maps/FrontStreet_BackAlley_fox': Can't find file.
 [2021.08.19-09.20.02:357][385]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/FrontStreet_BackAlley_fox.FrontStreet_BackAlley_fox'
+[2021.08.19-09.22.27:054][561]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Rokoko/Animations/take-1_DEFAULT_BW1.take-1_DEFAULT_BW1
+[2021.08.19-09.22.27:061][561]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.08.19-09.22.27:185][561]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.22.27:186][561]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2021.08.19-09.22.27:447][561]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.19-09.22.36:695][466]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Rokoko/Animations/AngryFan_DEFAULT_C2J_Anim.AngryFan_DEFAULT_C2J_Anim
+[2021.08.19-09.23.01:682][813]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.19-09.23.01:750][813]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.19-09.23.04:065][967]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AngryFan_DEFAULT_C2J_Anim.AngryFan_DEFAULT_C2J_Anim
+[2021.08.19-09.23.04:065][967]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AngryFan_DEFAULT_C2J_Anim.AngryFan_DEFAULT_C2J_Anim
+[2021.08.19-09.23.04:088][967]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.08.19-09.23.04:100][967]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.23.04:100][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.23.04:119][967]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.23.04:119][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.23.04:210][967]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AngryFan_DEFAULT_C2J_Anim.AngryFan_DEFAULT_C2J_Anim
+[2021.08.19-09.23.05:570][  1]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AngryFan_DEFAULT_C2J_Anim.AngryFan_DEFAULT_C2J_Anim
+[2021.08.19-09.23.05:581][  1]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.23.05:918][  1]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2021.08.19-09.23.05:938][  1]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.19-09.23.13:524][643]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/CivilianMan/civilianMan_Skeleton.civilianMan_Skeleton
+[2021.08.19-09.23.13:530][643]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.23.13:716][644]LogRenderer: Reallocating scene render targets to support 1592x960 Format 10 NumSamples 1 (Frame:1).
+[2021.08.19-09.24.03:818][178]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.24.03:818][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.24.03:861][178]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.24.03:861][178]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.24.06:211][356]LogRenderer: Reallocating scene render targets to support 1592x964 Format 10 NumSamples 1 (Frame:4626).
+[2021.08.19-09.24.06:252][357]LogRenderer: Reallocating scene render targets to support 1592x1244 Format 10 NumSamples 1 (Frame:4628).
+[2021.08.19-09.24.06:451][376]LogSlate: Window 'Retarget Manager' being destroyed
+[2021.08.19-09.24.06:453][376]LogSlate: Window 'civilianMan_Skeleton' being destroyed
+[2021.08.19-09.24.08:936][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.08.19-09.24.09:946][636]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.19-09.24.09:987][636]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/AngryFan_DEFAULT_C2J_Anim.AngryFan_DEFAULT_C2J_Anim
+[2021.08.19-09.24.10:161][636]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.19-09.24.16:743][191]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.19-09.24.19:109][415]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-1_DEFAULT_BW1.take-1_DEFAULT_BW1
+[2021.08.19-09.24.19:109][415]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-1_DEFAULT_BW1.take-1_DEFAULT_BW1
+[2021.08.19-09.24.19:119][415]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.08.19-09.24.19:122][415]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.24.19:122][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.24.19:133][415]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.24.19:133][415]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.24.19:192][416]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-1_DEFAULT_BW1.take-1_DEFAULT_BW1
+[2021.08.19-09.24.20:478][467]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/take-1_DEFAULT_BW1.take-1_DEFAULT_BW1
+[2021.08.19-09.24.20:483][467]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.24.20:743][467]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.19-09.25.09:156][952]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.25.09:156][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.25.09:228][952]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.25.09:228][952]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.25.12:991][345]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.08.19-09.25.16:744][345]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.19-09.25.16:785][345]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/take-1_DEFAULT_BW1.take-1_DEFAULT_BW1
+[2021.08.19-09.25.16:926][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.08.19-09.25.26:071][226]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/CivilianMan/civilianMan.civilianMan
+[2021.08.19-09.25.26:076][226]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.25.37:647][311]LogAssetEditorSubsystem: Opening Asset editor for PoseAsset /Game/Characters/CivilianMan/Animation/civilianManMocapPose_PA.civilianManMocapPose_PA
+[2021.08.19-09.25.37:652][311]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.25.37:851][311]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.19-09.26.22:875][474]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/CivilianMan/Animation/club_s0100_civilianManDrunkWalk.club_s0100_civilianManDrunkWalk
+[2021.08.19-09.26.22:921][474]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/CivilianMan/Animation/club_s0100_civilianManDrunkWalk.club_s0100_civilianManDrunkWalk
+[2021.08.19-09.26.46:486][898]LogAssetEditorSubsystem: Opening Asset editor for PoseAsset /Game/Characters/CivilianWoman/Animations/civilianWomanMocapPose_PA.civilianWomanMocapPose_PA
+[2021.08.19-09.26.46:519][898]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.26.46:719][898]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.19-09.26.59:295][ 83]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.19-09.27.02:213][331]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AngryFan_DEFAULT_C2J_Anim.AngryFan_DEFAULT_C2J_Anim
+[2021.08.19-09.27.02:213][331]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AngryFan_DEFAULT_C2J_Anim.AngryFan_DEFAULT_C2J_Anim
+[2021.08.19-09.27.02:238][331]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.08.19-09.27.02:252][331]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.27.02:253][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.27.02:267][331]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.27.02:267][331]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.27.02:333][331]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AngryFan_DEFAULT_C2J_Anim.AngryFan_DEFAULT_C2J_Anim
+[2021.08.19-09.27.03:682][388]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/AngryFan_DEFAULT_C2J_Anim.AngryFan_DEFAULT_C2J_Anim
+[2021.08.19-09.27.29:064][190]Cmd: TRANSACTION UNDO
+[2021.08.19-09.27.29:064][190]LogEditorTransaction: Undo Translate Bone
+[2021.08.19-09.27.29:369][190]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.27.29:373][190]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.27.29:379][190]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.27.29:379][190]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.27.29:381][190]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_18:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.28.52:083][299]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2021.08.19-09.28.52:131][299]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/CivilianWoman/civilianWoman_Skeleton_Sequence.civilianWoman_Skeleton_Sequence
+[2021.08.19-09.30.35:240][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.08.19-09.30.35:248][428]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/blankStartupMap' took 0.017
+[2021.08.19-09.30.35:249][428]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/Rokoko/AngryFan_DEFAULT_C2J_Skeleton] ([1] browsable assets)...
+[2021.08.19-09.30.35:249][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Rokoko/AngryFan_DEFAULT_C2J_Skeleton]
+[2021.08.19-09.30.35:251][428]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/AngryFan_DEFAULT_C2J_Skeleton_Au4F1C86F44B166FA1B4AFA0B2C28ACFEE.tmp' to '../../../../../../Users/nilas/Documents/luton/Saved/Autosaves/Game/Characters/Rokoko/AngryFan_DEFAULT_C2J_Skeleton_Auto1.uasset'
+[2021.08.19-09.30.35:252][428]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/CivilianMan/civilianMan_Skeleton] ([1] browsable assets)...
+[2021.08.19-09.30.35:252][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/CivilianMan/civilianMan_Skeleton]
+[2021.08.19-09.30.35:254][428]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/civilianMan_Skeleton_Auto157ECED4E46CA8B06892722ABA9027541.tmp' to '../../../../../../Users/nilas/Documents/luton/Saved/Autosaves/Game/Characters/CivilianMan/civilianMan_Skeleton_Auto1.uasset'
+[2021.08.19-09.30.35:255][428]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Characters/CivilianMan/civilianMan] ([1] browsable assets)...
+[2021.08.19-09.30.35:264][428]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/Characters/CivilianMan/civilianMan.civilianMan]
+[2021.08.19-09.30.35:264][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/CivilianMan/civilianMan]
+[2021.08.19-09.30.35:562][428]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/civilianMan_Auto1AF8F5D6148A6B29523EFD9968F56EE4B.tmp' to '../../../../../../Users/nilas/Documents/luton/Saved/Autosaves/Game/Characters/CivilianMan/civilianMan_Auto1.uasset'
+[2021.08.19-09.30.35:563][428]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/CivilianWoman/civilianWoman_Skeleton] ([1] browsable assets)...
+[2021.08.19-09.30.35:563][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/CivilianWoman/civilianWoman_Skeleton]
+[2021.08.19-09.30.35:566][428]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/civilianWoman_Skeleton_Auto167B56BB24F8B45B2AE4EF2BFE5C1B2AD.tmp' to '../../../../../../Users/nilas/Documents/luton/Saved/Autosaves/Game/Characters/CivilianWoman/civilianWoman_Skeleton_Auto1.uasset'
+[2021.08.19-09.30.35:566][428]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AngryFan_DEFAULT_C2J_Anim] ([1] browsable assets)...
+[2021.08.19-09.30.35:573][428]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/AngryFan_DEFAULT_C2J_Anim.AngryFan_DEFAULT_C2J_Anim]
+[2021.08.19-09.30.35:573][428]OBJ SavePackage: Finished generating thumbnails for package [/Game/AngryFan_DEFAULT_C2J_Anim]
+[2021.08.19-09.30.35:573][428]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AngryFan_DEFAULT_C2J_Anim" FILE="../../../../../../Users/nilas/Documents/luton/Saved/Autosaves/Game/AngryFan_DEFAULT_C2J_Anim_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.08.19-09.30.35:588][428]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/AngryFan_DEFAULT_C2J_Anim_Auto1960B57534D3A7306EEBAD5ACF9905273.tmp' to '../../../../../../Users/nilas/Documents/luton/Saved/Autosaves/Game/AngryFan_DEFAULT_C2J_Anim_Auto1.uasset'
+[2021.08.19-09.30.35:588][428]LogFileHelpers: Auto-saving content packages took 0.340
+[2021.08.19-09.34.21:638][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.08.19-09.34.22:845][390]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.19-09.34.22:882][390]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/AngryFan_DEFAULT_C2J_Anim.AngryFan_DEFAULT_C2J_Anim
+[2021.08.19-09.34.23:075][390]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.19-09.34.28:984][887]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.19-09.34.31:712][142]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-1_DEFAULT_BW1.take-1_DEFAULT_BW1
+[2021.08.19-09.34.31:712][142]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-1_DEFAULT_BW1.take-1_DEFAULT_BW1
+[2021.08.19-09.34.31:726][142]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.08.19-09.34.31:731][142]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.34.31:731][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.34.31:740][142]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.34.31:741][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.34.31:803][143]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-1_DEFAULT_BW1.take-1_DEFAULT_BW1
+[2021.08.19-09.34.33:085][202]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/take-1_DEFAULT_BW1.take-1_DEFAULT_BW1
+[2021.08.19-09.36.26:970][609]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2021.08.19-09.36.26:992][609]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/CivilianWoman/civilianWoman_Skeleton_Sequence1.civilianWoman_Skeleton_Sequence1
+[2021.08.19-09.36.30:751][934]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.36.30:751][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.36.30:797][934]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.36.30:797][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.37.00:984][369]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/take-1_DEFAULT_BW1" FILE="../../../../../../Users/nilas/Documents/luton/Content/take-1_DEFAULT_BW1.uasset" SILENT=true
+[2021.08.19-09.37.00:993][369]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/take-1_DEFAULT_BW1C819AC564CE8474E22DED0B9F6B5821B.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/take-1_DEFAULT_BW1.uasset'
+[2021.08.19-09.37.01:001][369]AssetCheck: New page: Asset Save: take-1_DEFAULT_BW1
+[2021.08.19-09.37.01:001][369]LogContentValidation: Display: Validating AnimSequence /Game/take-1_DEFAULT_BW1.take-1_DEFAULT_BW1
+[2021.08.19-09.37.13:004][479]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/take-1_DEFAULT_BW18828DCED4D2C28CDDE351EA8BDE2228C.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/CivilianWoman/Animations/take-1_DEFAULT_BW1.uasset'
+[2021.08.19-09.37.13:047][479]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/take-1_DEFAULT_BW1.take-1_DEFAULT_BW1'
+[2021.08.19-09.37.13:062][479]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.08.19-09.37.13:081][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.08.19-09.37.13:088][479]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.08.19-09.37.13:130][479]AssetCheck: New page: Asset Save: take-1_DEFAULT_BW1
+[2021.08.19-09.37.13:130][479]LogContentValidation: Display: Validating AnimSequence /Game/Characters/CivilianWoman/Animations/take-1_DEFAULT_BW1.take-1_DEFAULT_BW1
+[2021.08.19-09.37.20:777][189]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.19-09.37.23:514][444]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Rokoko/Animations/take-2_DEFAULT_BW1.take-2_DEFAULT_BW1
+[2021.08.19-09.37.29:150][964]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.08.19-09.37.29:153][964]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.37.29:153][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.37.29:157][964]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.37.29:158][964]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.37.29:285][964]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.19-09.37.31:426][160]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-2_DEFAULT_BW1.take-2_DEFAULT_BW1
+[2021.08.19-09.37.31:426][160]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-2_DEFAULT_BW1.take-2_DEFAULT_BW1
+[2021.08.19-09.37.31:438][160]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.08.19-09.37.31:441][160]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.37.31:442][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.37.31:452][160]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.37.31:452][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.37.31:513][161]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-2_DEFAULT_BW1.take-2_DEFAULT_BW1
+[2021.08.19-09.37.41:708][143]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/take-2_DEFAULT_BW1A3B1933B4A0EEE4578BA1DADCA91CCAE.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/Bartender/Animations/take-2_DEFAULT_BW1.uasset'
+[2021.08.19-09.37.41:754][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.08.19-09.37.41:770][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.08.19-09.37.41:777][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.08.19-09.37.41:821][143]AssetCheck: New page: Asset Save: take-2_DEFAULT_BW1
+[2021.08.19-09.37.41:821][143]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Bartender/Animations/take-2_DEFAULT_BW1.take-2_DEFAULT_BW1
+[2021.08.19-09.37.47:918][816]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Characters/Bartender/Animations/take-2_DEFAULT_BW1.take-2_DEFAULT_BW1
+[2021.08.19-09.37.47:921][816]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.37.48:110][816]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.19-09.38.59:199][248]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2021.08.19-09.38.59:218][248]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/Bartender/Animations/bartender_Skeleton_Sequence.bartender_Skeleton_Sequence
+[2021.08.19-09.39.06:859][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2021.08.19-09.39.07:891][992]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.19-09.39.07:934][992]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/Bartender/Animations/take-2_DEFAULT_BW1.take-2_DEFAULT_BW1
+[2021.08.19-09.39.08:116][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.08.19-09.39.08:122][992]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.08.19-09.39.08:130][992]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.08.19-09.39.09:178][ 71]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/bartender_Skeleton_SequenceD89E3C83456FD2AED1CDD485F8F32372.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/Bartender/Animations/bartender_Skeleton_Sequence.uasset'
+[2021.08.19-09.39.09:189][ 71]AssetCheck: New page: Asset Save: bartender_Skeleton_Sequence
+[2021.08.19-09.39.09:189][ 71]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Bartender/Animations/bartender_Skeleton_Sequence.bartender_Skeleton_Sequence
+[2021.08.19-09.39.20:777][194]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.19-09.39.23:466][448]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-3_DEFAULT_BW1.take-3_DEFAULT_BW1
+[2021.08.19-09.39.23:466][448]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-3_DEFAULT_BW1.take-3_DEFAULT_BW1
+[2021.08.19-09.39.23:479][448]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.08.19-09.39.23:483][448]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.39.23:483][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.39.23:492][448]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.39.23:492][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.39.23:566][449]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-3_DEFAULT_BW1.take-3_DEFAULT_BW1
+[2021.08.19-09.39.29:101][926]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/take-3_DEFAULT_BW1.take-3_DEFAULT_BW1
+[2021.08.19-09.39.29:107][926]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.39.29:301][926]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.19-09.39.48:505][964]Cmd: TRANSACTION UNDO
+[2021.08.19-09.39.48:505][964]LogEditorTransaction: Undo Translate Bone
+[2021.08.19-09.39.48:864][964]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.39.48:875][964]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.39.48:884][964]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.39.48:884][964]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.39.48:887][964]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.39.48:887][964]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.39.55:889][661]Cmd: TRANSACTION UNDO
+[2021.08.19-09.39.55:889][661]LogEditorTransaction: Undo Rotate Bone
+[2021.08.19-09.39.56:228][661]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.39.56:237][661]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.39.56:246][661]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.39.56:247][661]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.39.56:248][661]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.39.56:249][661]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.40.26:576][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/take-3_DEFAULT_BW1" FILE="../../../../../../Users/nilas/Documents/luton/Content/take-3_DEFAULT_BW1.uasset" SILENT=true
+[2021.08.19-09.40.26:583][ 81]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/take-3_DEFAULT_BW14E8BA2484EED9B82988D15B156BB8C07.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/take-3_DEFAULT_BW1.uasset'
+[2021.08.19-09.40.26:591][ 81]AssetCheck: New page: Asset Save: take-3_DEFAULT_BW1
+[2021.08.19-09.40.26:591][ 81]LogContentValidation: Display: Validating AnimSequence /Game/take-3_DEFAULT_BW1.take-3_DEFAULT_BW1
+[2021.08.19-09.40.27:631][185]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/ClassyLady/classyLady.classyLady
+[2021.08.19-09.40.27:636][185]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.40.49:202][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/take-3_DEFAULT_BW1" FILE="../../../../../../Users/nilas/Documents/luton/Content/take-3_DEFAULT_BW1.uasset" SILENT=true
+[2021.08.19-09.40.49:206][388]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/take-3_DEFAULT_BW109B70080457825BC4AB08EB7A202E927.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/take-3_DEFAULT_BW1.uasset'
+[2021.08.19-09.40.49:213][388]AssetCheck: New page: Asset Save: take-3_DEFAULT_BW1
+[2021.08.19-09.40.49:213][388]LogContentValidation: Display: Validating AnimSequence /Game/take-3_DEFAULT_BW1.take-3_DEFAULT_BW1
+[2021.08.19-09.41.34:780][446]LogSlate: Window 'Create a New Animation Asset' being destroyed
+[2021.08.19-09.41.34:801][446]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/ClassyLady/Animations/classyLady_Skeleton_Sequence.classyLady_Skeleton_Sequence
+[2021.08.19-09.41.40:051][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.08.19-09.41.40:962][887]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.19-09.41.41:000][887]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/take-3_DEFAULT_BW1.take-3_DEFAULT_BW1
+[2021.08.19-09.41.41:153][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.08.19-09.41.41:161][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.08.19-09.41.41:168][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.08.19-09.41.48:650][593]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Detective/detective_Skeleton.detective_Skeleton
+[2021.08.19-09.41.48:720][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.42.16:875][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Detective/detective_Skeleton" FILE="../../../../../../Users/nilas/Documents/luton/Content/Characters/Detective/detective_Skeleton.uasset" SILENT=true
+[2021.08.19-09.42.16:878][550]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/detective_Skeleton9173D3BB4B2776A5DDDD658E9350BE1C.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/Detective/detective_Skeleton.uasset'
+[2021.08.19-09.42.16:885][550]AssetCheck: New page: Asset Save: detective_Skeleton
+[2021.08.19-09.42.16:885][550]LogContentValidation: Display: Validating Skeleton /Game/Characters/Detective/detective_Skeleton.detective_Skeleton
+[2021.08.19-09.42.21:396][975]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Journalist/journalist_Skeleton.journalist_Skeleton
+[2021.08.19-09.42.21:482][975]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_36:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.42.27:711][491]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Journalist/journalist_Skeleton" FILE="../../../../../../Users/nilas/Documents/luton/Content/Characters/Journalist/journalist_Skeleton.uasset" SILENT=true
+[2021.08.19-09.42.27:714][491]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/journalist_SkeletonA9035AD54805F407372078B64A1A0D97.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/Journalist/journalist_Skeleton.uasset'
+[2021.08.19-09.42.27:768][491]AssetCheck: New page: Asset Save: journalist_Skeleton
+[2021.08.19-09.42.27:768][491]LogContentValidation: Display: Validating Skeleton /Game/Characters/Journalist/journalist_Skeleton.journalist_Skeleton
+[2021.08.19-09.42.32:204][918]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/MafiaBoss/mafiaBoss_Skeleton.mafiaBoss_Skeleton
+[2021.08.19-09.42.32:223][918]LogLinker: Warning: [AssetLog] C:\Users\nilas\Documents\luton\Content\Characters\MafiaBoss\Materials\mafiaBoss_Inst.uasset: Failed to load '/Game/Characters/MafiaBoss/Materials/tex_mafiaBoss2_bsc': Can't find file.
+[2021.08.19-09.42.32:223][918]LogLinker: Warning: [AssetLog] C:\Users\nilas\Documents\luton\Content\Characters\MafiaBoss\Materials\mafiaBoss_Inst.uasset: Failed to load '/Game/Characters/MafiaBoss/Materials/tex_mafiaBoss2_bsc': Can't find file.
+[2021.08.19-09.42.32:223][918]LogLinker: Warning: [AssetLog] C:\Users\nilas\Documents\luton\Content\Characters\MafiaBoss\Materials\mafiaBoss_Inst.uasset: Failed to load '/Game/Characters/MafiaBoss/Materials/tex_mafiaBoss2_nm': Can't find file.
+[2021.08.19-09.42.32:224][918]LogLinker: Warning: [AssetLog] C:\Users\nilas\Documents\luton\Content\Characters\MafiaBoss\Materials\mafiaBoss_Inst.uasset: Failed to load '/Game/Characters/MafiaBoss/Materials/tex_mafiaBoss2_nm': Can't find file.
+[2021.08.19-09.42.32:224][918]LogLinker: Warning: [AssetLog] C:\Users\nilas\Documents\luton\Content\Characters\MafiaBoss\Materials\mafiaBoss_Inst.uasset: Failed to load '/Game/Characters/MafiaBoss/Materials/tex_mafiaBoss2_orm': Can't find file.
+[2021.08.19-09.42.32:224][918]LogLinker: Warning: [AssetLog] C:\Users\nilas\Documents\luton\Content\Characters\MafiaBoss\Materials\mafiaBoss_Inst.uasset: Failed to load '/Game/Characters/MafiaBoss/Materials/tex_mafiaBoss2_orm': Can't find file.
+[2021.08.19-09.42.32:224][918]LogLinker: Warning: [AssetLog] C:\Users\nilas\Documents\luton\Content\Characters\MafiaBoss\Materials\mafiaBoss_Inst.uasset: Failed to load '/Game/Characters/MafiaBoss/Materials/tex_mafiaBoss2_bsc': Can't find file.
+[2021.08.19-09.42.32:224][918]LogLinker: Warning: [AssetLog] C:\Users\nilas\Documents\luton\Content\Characters\MafiaBoss\Materials\mafiaBoss_Inst.uasset: Failed to load '/Game/Characters/MafiaBoss/Materials/tex_mafiaBoss2_nm': Can't find file.
+[2021.08.19-09.42.32:224][918]LogLinker: Warning: [AssetLog] C:\Users\nilas\Documents\luton\Content\Characters\MafiaBoss\Materials\mafiaBoss_Inst.uasset: Failed to load '/Game/Characters/MafiaBoss/Materials/tex_mafiaBoss2_orm': Can't find file.
+[2021.08.19-09.42.32:226][918]LogLinker: Warning: [AssetLog] C:\Users\nilas\Documents\luton\Content\Characters\MafiaBoss\Materials\mafiaBoss_Inst.uasset: Failed to load '/Game/Characters/MafiaBoss/Materials/tex_mafiaBoss2_bsc': Can't find file.
+[2021.08.19-09.42.32:226][918]LoadErrors: Failed to load /Game/Characters/MafiaBoss/Materials/tex_mafiaBoss2_bsc.tex_mafiaBoss2_bsc Referenced by mafiaBoss_Inst
+[2021.08.19-09.42.32:226][918]LogLinker: Warning: [AssetLog] C:\Users\nilas\Documents\luton\Content\Characters\MafiaBoss\Materials\mafiaBoss_Inst.uasset: Failed to load '/Game/Characters/MafiaBoss/Materials/tex_mafiaBoss2_nm': Can't find file.
+[2021.08.19-09.42.32:226][918]LoadErrors: Failed to load /Game/Characters/MafiaBoss/Materials/tex_mafiaBoss2_nm.tex_mafiaBoss2_nm Referenced by mafiaBoss_Inst
+[2021.08.19-09.42.32:226][918]LogLinker: Warning: [AssetLog] C:\Users\nilas\Documents\luton\Content\Characters\MafiaBoss\Materials\mafiaBoss_Inst.uasset: Failed to load '/Game/Characters/MafiaBoss/Materials/tex_mafiaBoss2_orm': Can't find file.
+[2021.08.19-09.42.32:226][918]LoadErrors: Failed to load /Game/Characters/MafiaBoss/Materials/tex_mafiaBoss2_orm.tex_mafiaBoss2_orm Referenced by mafiaBoss_Inst
+[2021.08.19-09.42.32:299][918]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_37:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.42.37:352][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/MafiaBoss/mafiaBoss_Skeleton" FILE="../../../../../../Users/nilas/Documents/luton/Content/Characters/MafiaBoss/mafiaBoss_Skeleton.uasset" SILENT=true
+[2021.08.19-09.42.37:356][298]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/mafiaBoss_Skeleton01DF0F574CD17D45105158839B5188DA.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/MafiaBoss/mafiaBoss_Skeleton.uasset'
+[2021.08.19-09.42.37:364][298]AssetCheck: New page: Asset Save: mafiaBoss_Skeleton
+[2021.08.19-09.42.37:364][298]LogContentValidation: Display: Validating Skeleton /Game/Characters/MafiaBoss/mafiaBoss_Skeleton.mafiaBoss_Skeleton
+[2021.08.19-09.42.43:730][861]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/MafiaSoldier/mafiaSoldier_Skeleton.mafiaSoldier_Skeleton
+[2021.08.19-09.42.43:831][861]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.42.48:571][206]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/mafiaSoldier_SkeletonDE363FDC41888CD416AB4280319B7375.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/MafiaSoldier/mafiaSoldier_Skeleton.uasset'
+[2021.08.19-09.42.48:590][206]AssetCheck: New page: Asset Save: mafiaSoldier_Skeleton
+[2021.08.19-09.42.48:590][206]LogContentValidation: Display: Validating Skeleton /Game/Characters/MafiaSoldier/mafiaSoldier_Skeleton.mafiaSoldier_Skeleton
+[2021.08.19-09.42.53:205][610]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Mistress/mistress_Skeleton.mistress_Skeleton
+[2021.08.19-09.42.53:352][610]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_39:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.42.57:753][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Mistress/mistress_Skeleton" FILE="../../../../../../Users/nilas/Documents/luton/Content/Characters/Mistress/mistress_Skeleton.uasset" SILENT=true
+[2021.08.19-09.42.57:756][917]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/mistress_Skeleton26D7D3D842997F3366E4C6B4A4BF892E.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/Mistress/mistress_Skeleton.uasset'
+[2021.08.19-09.42.57:807][917]AssetCheck: New page: Asset Save: mistress_Skeleton
+[2021.08.19-09.42.57:807][917]LogContentValidation: Display: Validating Skeleton /Game/Characters/Mistress/mistress_Skeleton.mistress_Skeleton
+[2021.08.19-09.43.03:565][414]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Showgirl/showgirl_Skeleton.showgirl_Skeleton
+[2021.08.19-09.43.03:598][414]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.43.07:667][730]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Showgirl/showgirl_Skeleton" FILE="../../../../../../Users/nilas/Documents/luton/Content/Characters/Showgirl/showgirl_Skeleton.uasset" SILENT=true
+[2021.08.19-09.43.07:670][730]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/showgirl_Skeleton73B063DA4F24CDE3C5C9729680219E35.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/Showgirl/showgirl_Skeleton.uasset'
+[2021.08.19-09.43.07:686][730]AssetCheck: New page: Asset Save: showgirl_Skeleton
+[2021.08.19-09.43.07:686][730]LogContentValidation: Display: Validating Skeleton /Game/Characters/Showgirl/showgirl_Skeleton.showgirl_Skeleton
+[2021.08.19-09.43.13:821][316]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Waitress/waitress_Skeleton.waitress_Skeleton
+[2021.08.19-09.43.13:870][316]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.43.18:487][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Waitress/waitress_Skeleton" FILE="../../../../../../Users/nilas/Documents/luton/Content/Characters/Waitress/waitress_Skeleton.uasset" SILENT=true
+[2021.08.19-09.43.18:490][696]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/waitress_Skeleton9FFBEDF9435C05688316299E4A428CEA.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/Waitress/waitress_Skeleton.uasset'
+[2021.08.19-09.43.18:544][696]AssetCheck: New page: Asset Save: waitress_Skeleton
+[2021.08.19-09.43.18:544][696]LogContentValidation: Display: Validating Skeleton /Game/Characters/Waitress/waitress_Skeleton.waitress_Skeleton
+[2021.08.19-09.43.20:382][873]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.43.20:382][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.43.21:402][975]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.43.21:402][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.43.22:475][ 44]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.43.22:475][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.43.23:443][120]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.43.23:443][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.43.24:343][180]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.43.24:343][180]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.43.25:211][246]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.43.25:211][246]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.43.25:730][291]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.43.25:730][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.43.35:371][140]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.19-09.43.38:810][476]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-4_DEFAULT_BW1.take-4_DEFAULT_BW1
+[2021.08.19-09.43.38:810][476]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-4_DEFAULT_BW1.take-4_DEFAULT_BW1
+[2021.08.19-09.43.38:819][476]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.08.19-09.43.38:824][476]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.43.38:824][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.43.38:828][476]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.43.38:828][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.43.38:893][477]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-4_DEFAULT_BW1.take-4_DEFAULT_BW1
+[2021.08.19-09.43.39:893][528]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/take-4_DEFAULT_BW1.take-4_DEFAULT_BW1
+[2021.08.19-09.43.39:925][528]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.43.40:124][528]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.19-09.44.08:721][652]Cmd: TRANSACTION UNDO
+[2021.08.19-09.44.08:721][652]LogEditorTransaction: Undo Rotate Bone
+[2021.08.19-09.44.09:164][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.44.09:177][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.44.09:183][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_15:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.44.09:183][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_16:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.44.09:185][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.44.09:185][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_32:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.44.09:194][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.44.09:199][652]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-09.44.24:662][174]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/take-4_DEFAULT_BW1B6F8F1AE46F7FEA7EE861F8392634FE3.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/Detective/Animations/take-4_DEFAULT_BW1.uasset'
+[2021.08.19-09.44.24:708][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2021.08.19-09.44.24:726][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.08.19-09.44.24:733][174]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.08.19-09.44.24:812][174]AssetCheck: New page: Asset Save: take-4_DEFAULT_BW1
+[2021.08.19-09.44.24:812][174]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Detective/Animations/take-4_DEFAULT_BW1.take-4_DEFAULT_BW1
+[2021.08.19-09.44.30:350][647]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.19-09.44.32:875][889]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-5_DEFAULT_BW1.take-5_DEFAULT_BW1
+[2021.08.19-09.44.32:875][889]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-5_DEFAULT_BW1.take-5_DEFAULT_BW1
+[2021.08.19-09.44.32:881][889]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.08.19-09.44.32:886][889]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.44.32:886][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.44.32:895][889]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.44.32:895][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.44.32:955][890]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-5_DEFAULT_BW1.take-5_DEFAULT_BW1
+[2021.08.19-09.44.37:381][170]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/take-5_DEFAULT_BW1882B6AC44EA3498D3A4D4D9FAF70F4F1.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/Journalist/Animations/take-5_DEFAULT_BW1.uasset'
+[2021.08.19-09.44.37:448][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.08.19-09.44.37:465][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.08.19-09.44.37:473][170]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.08.19-09.44.37:549][170]AssetCheck: New page: Asset Save: take-5_DEFAULT_BW1
+[2021.08.19-09.44.37:549][170]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Journalist/Animations/take-5_DEFAULT_BW1.take-5_DEFAULT_BW1
+[2021.08.19-09.44.44:854][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.19-09.44.45:864][799]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.19-09.44.45:890][799]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Characters/Rokoko/Animations/AngryFan_DEFAULT_C2J_Anim.AngryFan_DEFAULT_C2J_Anim
+[2021.08.19-09.44.46:170][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.19-09.44.46:179][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.08.19-09.44.46:186][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.08.19-09.44.49:616][ 98]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.19-09.44.51:692][274]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-1_DEFAULT_BW1.take-1_DEFAULT_BW1
+[2021.08.19-09.44.51:692][274]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-1_DEFAULT_BW1.take-1_DEFAULT_BW1
+[2021.08.19-09.44.51:720][274]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.08.19-09.44.51:728][274]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.44.51:728][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.44.51:737][274]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.44.51:737][274]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.44.51:805][275]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-1_DEFAULT_BW1.take-1_DEFAULT_BW1
+[2021.08.19-09.44.59:758][873]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.19-09.45.01:962][ 74]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-2_DEFAULT_BW1.take-2_DEFAULT_BW1
+[2021.08.19-09.45.01:962][ 74]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-2_DEFAULT_BW1.take-2_DEFAULT_BW1
+[2021.08.19-09.45.01:974][ 74]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.08.19-09.45.01:978][ 74]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.45.01:978][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.45.01:984][ 74]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.45.01:984][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.45.02:053][ 75]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-2_DEFAULT_BW1.take-2_DEFAULT_BW1
+[2021.08.19-09.45.08:731][591]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.19-09.45.10:697][773]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-3_DEFAULT_BW1.take-3_DEFAULT_BW1
+[2021.08.19-09.45.10:697][773]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-3_DEFAULT_BW1.take-3_DEFAULT_BW1
+[2021.08.19-09.45.10:709][773]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.08.19-09.45.10:713][773]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.45.10:713][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.45.10:721][773]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.45.10:721][773]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.45.10:788][774]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-3_DEFAULT_BW1.take-3_DEFAULT_BW1
+[2021.08.19-09.45.17:806][296]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.19-09.45.19:756][471]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-4_DEFAULT_BW1.take-4_DEFAULT_BW1
+[2021.08.19-09.45.19:756][471]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-4_DEFAULT_BW1.take-4_DEFAULT_BW1
+[2021.08.19-09.45.19:774][471]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.08.19-09.45.19:778][471]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.45.19:778][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.45.19:786][471]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.45.19:786][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.45.19:864][472]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-4_DEFAULT_BW1.take-4_DEFAULT_BW1
+[2021.08.19-09.45.31:550][368]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.19-09.45.33:491][562]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-1_DEFAULT_BW2.take-1_DEFAULT_BW2
+[2021.08.19-09.45.33:491][562]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-1_DEFAULT_BW2.take-1_DEFAULT_BW2
+[2021.08.19-09.45.33:507][562]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.08.19-09.45.33:511][562]LogWorld: UWorld::CleanupWorld for World_57, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.45.33:511][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.45.33:518][562]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-09.45.33:519][562]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-09.45.33:590][563]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/take-1_DEFAULT_BW2.take-1_DEFAULT_BW2
+[2021.08.19-09.45.50:833][424]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/take-1_DEFAULT_BW15580EC70492B9C4AF525829C2DDCF9D8.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/MafiaBoss/Animations/take-1_DEFAULT_BW1.uasset'
+[2021.08.19-09.45.50:879][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.08.19-09.45.50:902][424]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.08.19-09.45.50:909][424]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.08.19-09.45.50:983][424]AssetCheck: New page: Asset Save: take-1_DEFAULT_BW1
+[2021.08.19-09.45.50:983][424]LogContentValidation: Display: Validating AnimSequence /Game/Characters/MafiaBoss/Animations/take-1_DEFAULT_BW1.take-1_DEFAULT_BW1
+[2021.08.19-09.46.13:402][  5]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/take-1_DEFAULT_BW28E1707F2445FE219C938A587D4F62D6F.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/Waitress/Animation/take-1_DEFAULT_BW2.uasset'
+[2021.08.19-09.46.13:442][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.08.19-09.46.13:456][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.08.19-09.46.13:463][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.08.19-09.46.13:537][  5]AssetCheck: New page: Asset Save: take-1_DEFAULT_BW2
+[2021.08.19-09.46.13:537][  5]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Waitress/Animation/take-1_DEFAULT_BW2.take-1_DEFAULT_BW2
+[2021.08.19-09.46.17:772][472]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/take-4_DEFAULT_BW1F6C31B384A39293BE7474D977E1116C9.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/Showgirl/Animation/take-4_DEFAULT_BW1.uasset'
+[2021.08.19-09.46.17:812][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.19-09.46.17:825][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.08.19-09.46.17:832][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.08.19-09.46.17:907][472]AssetCheck: New page: Asset Save: take-4_DEFAULT_BW1
+[2021.08.19-09.46.17:907][472]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Showgirl/Animation/take-4_DEFAULT_BW1.take-4_DEFAULT_BW1
+[2021.08.19-09.46.21:558][872]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/take-2_DEFAULT_BW1A132D7E041D37442B40FE7A003D1695C.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/MafiaSoldier/Animations/take-2_DEFAULT_BW1.uasset'
+[2021.08.19-09.46.21:601][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.08.19-09.46.21:613][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.08.19-09.46.21:620][872]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.08.19-09.46.21:696][872]AssetCheck: New page: Asset Save: take-2_DEFAULT_BW1
+[2021.08.19-09.46.21:696][872]LogContentValidation: Display: Validating AnimSequence /Game/Characters/MafiaSoldier/Animations/take-2_DEFAULT_BW1.take-2_DEFAULT_BW1
+[2021.08.19-09.46.24:529][173]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/take-3_DEFAULT_BW1246860E941EAA866A7D3DC946604CA1E.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/Mistress/Animation/take-3_DEFAULT_BW1.uasset'
+[2021.08.19-09.46.24:568][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.08.19-09.46.24:580][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.08.19-09.46.24:587][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.08.19-09.46.24:662][173]AssetCheck: New page: Asset Save: take-3_DEFAULT_BW1
+[2021.08.19-09.46.24:662][173]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Mistress/Animation/take-3_DEFAULT_BW1.take-3_DEFAULT_BW1
