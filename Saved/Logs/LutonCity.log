@@ -1456,3 +1456,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.19-09.08.35:788][294]LogLinker: Warning: Failed to load '/Game/Maps/Bar_BuiltData': Can't find file.
 [2021.08.19-09.08.35:788][294]LogLinker: Warning: Failed to load '/Game/Maps/Bar_BuiltData': Can't find file.
 [2021.08.19-09.08.35:788][294]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Bar_BuiltData.Bar_BuiltData'
+[2021.08.19-09.20.02:346][384]LogLinker: Warning: Failed to load '/Game/Cinematics/Sequences/backAlleyAnimations/backAlley_Shot': Can't find file.
+[2021.08.19-09.20.02:346][384]LogLinker: Warning: Failed to load '/Game/Cinematics/Sequences/backAlleyAnimations/backAlley_Shot': Can't find file.
+[2021.08.19-09.20.02:346][384]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Cinematics/Sequences/backAlleyAnimations/backAlley_Shot.backAlley_Shot'
+[2021.08.19-09.20.02:357][385]LogLinker: Warning: Failed to load '/Game/Maps/FrontStreet_BackAlley_fox': Can't find file.
+[2021.08.19-09.20.02:357][385]LogLinker: Warning: Failed to load '/Game/Maps/FrontStreet_BackAlley_fox': Can't find file.
+[2021.08.19-09.20.02:357][385]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/FrontStreet_BackAlley_fox.FrontStreet_BackAlley_fox'
