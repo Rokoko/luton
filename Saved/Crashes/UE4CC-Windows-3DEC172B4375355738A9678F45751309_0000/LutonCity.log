@@ -1,0 +1,1369 @@
+﻿Log file open, 08/19/21 09:03:41
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: LutonCity
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.178812
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin Composure
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin LensDistortion
+LogPluginManager: Mounting plugin OpenColorIO
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin OpenCVLensDistortion
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaFrameworkUtilities
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaIOFramework
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin SequencerScripting
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin MultiUserTakes
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin OSC
+LogPluginManager: Mounting plugin TimedDataMonitor
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Smartsuit
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ColorCorrectRegions
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin RemoteSession
+LogPluginManager: Mounting plugin VirtualCamera
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin VirtualProductionUtilities
+LogPluginManager: Mounting plugin MultiUserClient
+LogPluginManager: Mounting plugin ConcertMain
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin ARUtilities
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin ConcertSyncClient
+LogPluginManager: Mounting plugin ConcertSyncCore
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleARKitFaceSupport
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10700K CPU @ 3.80GHz, GPU: NVIDIA GeForce RTX 3060
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=nilusss -epicuserid=e93fca2ef9644748a74e191d04b90ad0 -epiclocale=en
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Engine.ini]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Engine.ini]
+[2021.08.19-07.03.41:896][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Engine.ini]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Engine.ini]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.08.19-07.03.41:896][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Engine.ini]
+[2021.08.19-07.03.41:896][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Engine.ini]
+[2021.08.19-07.03.41:933][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.19-07.03.41:933][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.19-07.03.41:934][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.19-07.03.41:934][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.08.19-07.03.41:934][  0]LogHAL: Display: Platform has ~ 32 GB [34202128384 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.08.19-07.03.41:934][  0]LogInit: Going up to parent DeviceProfile []
+[2021.08.19-07.03.41:934][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.08.19-07.03.41:934][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Scalability.ini]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.08.19-07.03.41:935][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Engine.ini]
+[2021.08.19-07.03.41:935][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/nilas/Documents/luton/Saved/Config/Windows/Editor.ini]
+[2021.08.19-07.03.41:936][  0]LogInit: Computer: DESKTOP-K0L5T96
+[2021.08.19-07.03.41:936][  0]LogInit: User: nilas
+[2021.08.19-07.03.41:936][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.08.19-07.03.41:936][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.08.19-07.03.41:936][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.08.19-07.03.41:936][  0]LogMemory: Platform Memory Stats for Windows
+[2021.08.19-07.03.41:936][  0]LogMemory: Process Physical Memory: 143.99 MB used, 143.99 MB peak
+[2021.08.19-07.03.41:936][  0]LogMemory: Process Virtual Memory: 127.94 MB used, 127.94 MB peak
+[2021.08.19-07.03.41:936][  0]LogMemory: Physical Memory: 10178.05 MB used,  22439.64 MB free, 32617.69 MB total
+[2021.08.19-07.03.41:936][  0]LogMemory: Virtual Memory: 134193712.00 MB used,  24018.97 MB free, 134217728.00 MB total
+[2021.08.19-07.03.41:938][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.08.19-07.03.41:964][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.08.19-07.03.41:965][  0]LogInit: Using OS detected language (en-US).
+[2021.08.19-07.03.41:965][  0]LogInit: Using OS detected locale (da-DK).
+[2021.08.19-07.03.41:967][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.08.19-07.03.42:092][  0]LogInit: Setting process to per monitor DPI aware
+[2021.08.19-07.03.42:097][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.08.19-07.03.42:107][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.08.19-07.03.42:107][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.08.19-07.03.42:196][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.08.19-07.03.42:196][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.08.19-07.03.42:196][  0]LogD3D11RHI: D3D11 adapters:
+[2021.08.19-07.03.42:280][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060' (Feature Level 11_0)
+[2021.08.19-07.03.42:280][  0]LogD3D11RHI:       12143/0/16308 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.08.19-07.03.42:294][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.08.19-07.03.42:294][  0]LogD3D11RHI:       128/0/16308 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2021.08.19-07.03.42:295][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.08.19-07.03.42:295][  0]LogD3D11RHI:       0/0/16308 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.08.19-07.03.42:295][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.08.19-07.03.42:300][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.08.19-07.03.42:300][  0]LogD3D11RHI:     GPU DeviceId: 0x2503 (for the marketing name, search the web for "GPU Device Id")
+[2021.08.19-07.03.42:300][  0]LogWindows: EnumDisplayDevices:
+[2021.08.19-07.03.42:300][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060' (P:1 D:1)
+[2021.08.19-07.03.42:300][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060' (P:0 D:1)
+[2021.08.19-07.03.42:300][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2021.08.19-07.03.42:300][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060' (P:0 D:0)
+[2021.08.19-07.03.42:301][  0]LogWindows:    4. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2021.08.19-07.03.42:301][  0]LogWindows:    5. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.08.19-07.03.42:301][  0]LogWindows:    6. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.08.19-07.03.42:301][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.08.19-07.03.42:301][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060
+[2021.08.19-07.03.42:301][  0]LogD3D11RHI:   Driver Version: 471.68 (internal:30.0.14.7168, unified:471.68)
+[2021.08.19-07.03.42:301][  0]LogD3D11RHI:      Driver Date: 8-5-2021
+[2021.08.19-07.03.42:301][  0]LogRHI: Texture pool is 8500 MB (70% of 12143 MB)
+[2021.08.19-07.03.42:362][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.08.19-07.03.42:362][  0]LogD3D11RHI: Async texture creation enabled
+[2021.08.19-07.03.42:362][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.08.19-07.03.42:384][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.08.19-07.03.42:385][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.08.19-07.03.42:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.08.19-07.03.42:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.08.19-07.03.42:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.08.19-07.03.42:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.08.19-07.03.42:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.08.19-07.03.42:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.08.19-07.03.42:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.08.19-07.03.42:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.08.19-07.03.42:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.08.19-07.03.42:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.08.19-07.03.42:583][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.08.19-07.03.42:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.08.19-07.03.42:599][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.08.19-07.03.42:607][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.08.19-07.03.42:613][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.08.19-07.03.42:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.08.19-07.03.42:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.08.19-07.03.42:631][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.08.19-07.03.42:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.08.19-07.03.42:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.08.19-07.03.42:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.08.19-07.03.42:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.08.19-07.03.42:666][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.08.19-07.03.42:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.08.19-07.03.42:679][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.08.19-07.03.42:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.08.19-07.03.42:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.08.19-07.03.42:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.08.19-07.03.42:701][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.08.19-07.03.42:708][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.08.19-07.03.42:713][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.08.19-07.03.42:719][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.08.19-07.03.42:719][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.08.19-07.03.42:723][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.08.19-07.03.42:760][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.08.19-07.03.42:760][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../../../Users/nilas/Documents/luton/Intermediate/Shaders/WorkingDirectory/18784/).
+[2021.08.19-07.03.42:760][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nilas/AppData/Local/Temp/UnrealShaderWorkingDir/CCEBEB8042B05D273A69EE8E3ADAA84B/'.
+[2021.08.19-07.03.42:761][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.08.19-07.03.42:761][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.08.19-07.03.43:354][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.08.19-07.03.43:398][  0]LogDerivedDataCache: Loaded boot cache 0.04s 79MB C:/Users/nilas/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.19-07.03.43:398][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/nilas/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.08.19-07.03.43:398][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/nilas/Documents/luton/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.08.19-07.03.43:398][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.08.19-07.03.43:398][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/nilas/Documents/luton/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.19-07.03.43:398][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.08.19-07.03.43:407][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.08.19-07.03.43:407][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.08.19-07.03.43:407][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.08.19-07.03.43:412][  0]LogDerivedDataCache: Speed tests for C:/Users/nilas/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.08.19-07.03.43:412][  0]LogDerivedDataCache: Display: Performance to C:/Users/nilas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=482.35MBs, RandomWriteSpeed=323.22MBs. Assigned SpeedClass 'Local'
+[2021.08.19-07.03.43:413][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nilas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.08.19-07.03.43:413][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.08.19-07.03.43:413][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.08.19-07.03.43:451][  0]LogSlate: Using FreeType 2.10.0
+[2021.08.19-07.03.43:451][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.08.19-07.03.43:468][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2021.08.19-07.03.43:639][  0]LogInit: Selected Device Profile: [Windows]
+[2021.08.19-07.03.43:639][  0]LogInit: Active device profile: [0000013D3E27A200][0000013D40A88100 49] Windows
+[2021.08.19-07.03.43:639][  0]LogInit: Profiles: [0000013D3E27A200][0000013D40A88100 49] Windows, [0000013D3E1AA600][0000013D40AAC280 49] WindowsNoEditor, [0000013D3E279400][0000013D4148C400 49] WindowsServer, [0000013D3E1AB300][0000013D4152C580 49] WindowsClient, [0000013D3E278800][0000013D4119C700 49] IOS, [0000013D3E1AAB00][0000013D411A0880 49] iPadAir, [0000013D3E278C00][0000013D411A4A00 49] iPadAir2, [0000013D3E14E200][0000013D411B2CC0 49] IPadPro, [0000013D3E14E300][0000013D411A8D00 49] iPadAir3, [0000013D3E1A9600][0000013D411BCE80 49] iPadAir4, [0000013D3E14FB00][0000013D411CD000 49] iPadMini2, [0000013D3E1A9100][0000013D411FF180 49] iPadMini3, [0000013D3E14D400][0000013D41237300 49] iPadMini4, [0000013D3E1ABD00][0000013D4125F480 49] iPadMini5, [0000013D3E185B00][0000013D412C7740 49] iPhone6, [0000013D3E185C00][0000013D4128F780 49] iPodTouch6, [0000013D3E14E000][0000013D415959C0 49] iPhone7, [0000013D3E14DD00][0000013D40A8DA00 49] iPodTouch7, [0000013D3E187300][0000013D41603B40 49] iPhone5S, [0000013D3E14D300][0000013D4161FCC0 49] iPhone6Plus, [0000013D3E185600][0000013D4166A180 49] iPhone6S, [0000013D3E14CE00][0000013D416A2300 49] iPhone6SPlus, [0000013D3E184700][0000013D416AA480 49] iPhone7Plus, [0000013D3E14CA00][0000013D416AE600 49] iPhoneSE, [0000013D3E186B00][0000013D416B8780 49] iPhone8, [0000013D3E14ED00][0000013D416C0900 49] iPhone8Plus, [0000013D3E184500][0000013D416DAA80 49] iPhoneX, [0000013D3E14F300][0000013D40B88C00 49] iPhoneXS, [0000013D3E186800][0000013D40B90D80 49] iPhoneXSMax, [0000013D3E14FF00][0000013D40C02F00 49] iPhoneXR, [0000013D3E184D00][0000013D40C0D080 49] iPhone11, [0000013D3E14E900][0000013D40C61200 49] iPhone11Pro, [0000013D3E186900][0000013D40C65380 49] iPhone11ProMax, [0000013D3E14FA00][0000013D40CE7500 49] iPhoneSE2, [0000013D3E186A00][0000013D40D0D680 49] iPhone12Mini, [0000013D3E14D200][0000013D40D63800 49] iPhone12, [0000013D3E186300][0000013D4161B940 49] iPhone12Pro, [0000013D3E14E700][0000013D40DD7A80 49] iPhone12ProMax, [0000013D3E27A700][0000013D40DFDBC0 49] iPadPro105, [0000013D3E14C300][0000013D40E51D00 49] iPadPro129, [0000013D3E27B000][0000013D40E901C0 49] iPadPro97, [0000013D3E14CF00][0000013D40E98340 49] iPadPro2_129, [0000013D3E27B200][0000013D40EA24C0 49] iPad5, [0000013D3E14D500][0000013D417D2640 49] iPad6, [0000013D3E27AE00][0000013D417FC7C0 49] iPad7, [0000013D3E14C800][0000013D41826940 49] iPad8, [0000013D3E278D00][0000013D4183EAC0 49] iPadPro11, [0000013D3E14CB00][0000013D4187EC40 49] iPadPro2_11, [0000013D3E278700][0000013D418CEDC0 49] iPadPro3_129, [0000013D3E14EC00][0000013D418DEF40 49] iPadPro4_129, [0000013D3E27A100][0000013D419190C0 49] AppleTV, [0000013D3E14F700][0000013D41957240 49] AppleTV4K, [0000013D3E27B100][0000013D419613C0 49] TVOS, [0000013D3E14CC00][0000013D41965540 49] Mac, [0000013D3E278100][0000013D419696C0 49] MacClient, [0000013D3E14E500][0000013D4197D840 49] MacNoEditor, [0000013D3E27AC00][0000013D40E89980 49] MacServer, [0000013D3E14D000][0000013D419A1AC0 49] Linux, [0000013D3E278F00][0000013D419A5C00 49] LinuxAArch64, [0000013D3E14FC00][0000013D419A9D40 49] LinuxNoEditor, [0000013D3E279700][0000013D419B0200 49] LinuxAArch64NoEditor, [0000013D3E14F400][0000013D419B4380 49] LinuxClient, [0000013D3E279600][0000013D419EA500 49] LinuxAArch64Client, [0000013D3E14C700][0000013D419EE680 49] LinuxServer, [0000013D3E279C00][0000013D419F2800 49] LinuxAArch64Server, [0000013D3E14F200][0000013D419F6980 49] Android, [0000013D3E27AF00][0000013D419FAB00 49] Android_Low, [0000013D3E14DB00][0000013D419FEC80 49] Android_Mid, [0000013D3E279500][0000013D41A02E00 49] Android_High, [0000013D3E14EB00][0000013D41A06F80 49] Android_Default, [0000013D3E279300][0000013D41A0B100 49] Android_Adreno4xx, [0000013D3E14C600][0000013D41A0F280 49] Android_Adreno5xx_Low, [0000013D3E279D00][0000013D41A13400 49] Android_Adreno5xx, [0000013D3E14DC00][0000013D41A17580 49] Android_Adreno6xx, [0000013D3E27AA00][0000013D41A1B700 49] Android_Adreno6xx_Vulkan, [0000013D3E14F600][0000013D41A1F880 49] Android_Mali_T6xx, [0000013D3E278200][0000013D41A23A00 49] Android_Mali_T7xx, [0000013D3E14F000][0000013D419ADB40 49] Android_Mali_T8xx, [0000013D3E278600][0000013D41A27C80 49] Android_Mali_G71, [0000013D3E14FD00][0000013D41A2A100 49] Android_Mali_G72, [0000013D3E279900][0000013D41A32280 49] Android_Mali_G72_Vulkan, [0000013D3E1AA100][0000013D41A36400 49] Android_Mali_G76, [0000013D3E185800][0000013D41A3A580 49] Android_Mali_G76_Vulkan, [0000013D3E1A8300][0000013D41A3E700 49] Android_Mali_G77, [0000013D3E184600][0000013D41A42880 49] Android_Mali_G77_Vulkan, [0000013D3E1A8A00][0000013D41A46A00 49] Android_Vulkan_SM5, [0000013D3E185900][0000013D41A4AB80 49] Android_PowerVR_G6xxx, [0000013D3E1A9400][0000013D41A4ED00 49] Android_PowerVR_GT7xxx, [0000013D3E186E00][0000013D41A52E80 49] Android_PowerVR_GE8xxx, [0000013D3E1AB700][0000013D41A57000 49] Android_PowerVR_GM9xxx, [0000013D3E184A00][0000013D41A5B180 49] Android_PowerVR_GM9xxx_Vulkan, [0000013D3E1AB500][0000013D41A5F300 49] Android_TegraK1, [0000013D3E184400][0000013D41A63480 49] Android_Unknown_Vulkan, [0000013D3E1ABF00][0000013D41A67600 49] Lumin, [0000013D3E187100][0000013D41A6F780 49] Lumin_Desktop, [0000013D3E1A9500][0000013D41A73900 49] HoloLens, 
+[2021.08.19-07.03.43:721][  0]LogAssetRegistry: Error: Package ../../../../../../Users/nilas/Documents/luton/Content/Characters/Waitress/blueprint.uasset has malformed tag
+[2021.08.19-07.03.43:721][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.08.19-07.03.43:721][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.08.19-07.03.43:721][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.08.19-07.03.43:721][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.08.19-07.03.43:721][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.08.19-07.03.43:734][  0]LogNetVersion: LutonCity 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 4145803760)
+[2021.08.19-07.03.44:114][  0]LogPackageLocalizationCache: Processed 38 localized package path(s) for 1 prioritized culture(s) in 0.053585 seconds
+[2021.08.19-07.03.44:118][  0]LogUObjectArray: 17121 objects as part of root set at end of initial load.
+[2021.08.19-07.03.44:118][  0]LogUObjectAllocator: 4325184 out of 0 bytes used by permanent object pool.
+[2021.08.19-07.03.44:118][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.08.19-07.03.44:368][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.08.19-07.03.44:371][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.08.19-07.03.44:444][  0]LogPython: Using Python 3.7.7
+[2021.08.19-07.03.45:481][  0]SourceControl: Source control is disabled
+[2021.08.19-07.03.45:481][  0]SourceControl: Source control is disabled
+[2021.08.19-07.03.45:484][  0]SourceControl: Source control is disabled
+[2021.08.19-07.03.45:488][  0]SourceControl: Source control is disabled
+[2021.08.19-07.03.45:489][  0]SourceControl: Source control is disabled
+[2021.08.19-07.03.45:493][  0]LogUProjectInfo: Found projects:
+[2021.08.19-07.03.45:497][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.19-07.03.45:497][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.19-07.03.45:702][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.08.19-07.03.45:708][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.19-07.03.45:708][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.08.19-07.03.45:991][  0]LogCollectionManager: Loaded 0 collections in 0.001027 seconds
+[2021.08.19-07.03.46:078][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nilas/Documents/luton/Saved/Collections/' took 0.00s
+[2021.08.19-07.03.46:078][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nilas/Documents/luton/Content/Developers/nilas/Collections/' took 0.00s
+[2021.08.19-07.03.46:078][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nilas/Documents/luton/Content/Collections/' took 0.00s
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: ObjectProperty FAnimNode_ModifyFaceCurves::MorphTargetRemapAsset is not initialized properly. Module:Smartsuit File:Public/AnimNode_ModifyFaceCurves.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: BoolProperty FSuitData::isLive is not initialized properly. Module:Smartsuit File:Public/SmartsuitDefinitions.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: BoolProperty FSuitData::hasGloves is not initialized properly. Module:Smartsuit File:Public/SmartsuitDefinitions.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: BoolProperty FSuitData::hasBody is not initialized properly. Module:Smartsuit File:Public/SmartsuitDefinitions.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: BoolProperty FSuitData::hasFace is not initialized properly. Module:Smartsuit File:Public/SmartsuitDefinitions.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FSuitData::color is not initialized properly. Module:Smartsuit File:Public/SmartsuitDefinitions.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: ObjectProperty FSmartsuitPoseNode::BoneMapOverride is not initialized properly. Module:Smartsuit File:Public/SmartsuitPoseNode.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::version is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::eyeBlinkLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::eyeLookDownLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::eyeLookInLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::eyeLookOutLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::eyeLookUpLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::eyeSquintLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::eyeWideLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::eyeBlinkRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::eyeLookDownRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::eyeLookInRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::eyeLookOutRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::eyeLookUpRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::eyeSquintRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::eyeWideRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::jawForward is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::jawLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::jawRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::jawOpen is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::mouthClose is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::mouthFunnel is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::mouthPucker is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::mouthLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::mouthRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::mouthSmileLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::mouthSmileRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::mouthFrownLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::mouthFrownRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::mouthDimpleLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::mouthDimpleRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::mouthStretchLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::mouthStretchRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::mouthRollLower is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::mouthRollUpper is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::mouthShrugLower is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::mouthShrugUpper is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::mouthPressLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::mouthPressRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::mouthLowerDownLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::mouthLowerDownRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::mouthUpperUpLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::mouthUpperUpRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::browDownLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::browDownRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::browInnerUp is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::browOuterUpLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::browOuterUpRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::cheekPuff is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::cheekSquintLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::cheekSquintRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::noseSneerLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::noseSneerRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FFace::tongueOut is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FTracker::position is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FTracker::rotation is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: BoolProperty FTracker::isLive is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FTracker::trackingResult is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FTracker::trackerType is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FTracker::battery is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FProp::color is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FProp::position is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FProp::rotation is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: BoolProperty FProp::isLive is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FProfile::dimensions is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FProfile::color is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FProfile::propType is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FRadiusReferencePoint::radius is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FRadiusReferencePoint::position is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FRadiusReferencePoint::rotation is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FReferencePoint::position is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:078][  0]LogClass: Warning: FReferencePoint::rotation is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:079][  0]LogClass: Display: 78 Uninitialized script struct members found
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: ObjectProperty FAnimNode_ModifyFaceCurves::MorphTargetRemapAsset is not initialized properly. Module:Smartsuit File:Public/AnimNode_ModifyFaceCurves.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: BoolProperty FSuitData::isLive is not initialized properly. Module:Smartsuit File:Public/SmartsuitDefinitions.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: BoolProperty FSuitData::hasGloves is not initialized properly. Module:Smartsuit File:Public/SmartsuitDefinitions.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: BoolProperty FSuitData::hasBody is not initialized properly. Module:Smartsuit File:Public/SmartsuitDefinitions.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: BoolProperty FSuitData::hasFace is not initialized properly. Module:Smartsuit File:Public/SmartsuitDefinitions.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FSuitData::color is not initialized properly. Module:Smartsuit File:Public/SmartsuitDefinitions.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: ObjectProperty FSmartsuitPoseNode::BoneMapOverride is not initialized properly. Module:Smartsuit File:Public/SmartsuitPoseNode.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::version is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::eyeBlinkLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::eyeLookDownLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::eyeLookInLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::eyeLookOutLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::eyeLookUpLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::eyeSquintLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::eyeWideLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::eyeBlinkRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::eyeLookDownRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::eyeLookInRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::eyeLookOutRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::eyeLookUpRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::eyeSquintRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::eyeWideRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::jawForward is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::jawLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::jawRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::jawOpen is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::mouthClose is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::mouthFunnel is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::mouthPucker is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::mouthLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::mouthRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::mouthSmileLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::mouthSmileRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::mouthFrownLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::mouthFrownRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::mouthDimpleLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::mouthDimpleRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::mouthStretchLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::mouthStretchRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::mouthRollLower is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::mouthRollUpper is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::mouthShrugLower is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::mouthShrugUpper is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::mouthPressLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::mouthPressRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::mouthLowerDownLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::mouthLowerDownRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::mouthUpperUpLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::mouthUpperUpRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::browDownLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::browDownRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::browInnerUp is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::browOuterUpLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::browOuterUpRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::cheekPuff is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::cheekSquintLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::cheekSquintRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::noseSneerLeft is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::noseSneerRight is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FFace::tongueOut is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FTracker::position is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FTracker::rotation is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: BoolProperty FTracker::isLive is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FTracker::trackingResult is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FTracker::trackerType is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FTracker::battery is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FProp::color is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FProp::position is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FProp::rotation is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: BoolProperty FProp::isLive is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FProfile::dimensions is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FProfile::color is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FProfile::propType is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FRadiusReferencePoint::radius is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FRadiusReferencePoint::position is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FRadiusReferencePoint::rotation is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FReferencePoint::position is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:080][  0]LogAutomationTest: Warning: FReferencePoint::rotation is not initialized properly. Module:Smartsuit File:Public/VirtualProductionFrame.h
+[2021.08.19-07.03.46:081][  0]LogEngine: Initializing Engine...
+[2021.08.19-07.03.46:082][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.08.19-07.03.46:083][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.08.19-07.03.46:157][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.08.19-07.03.46:164][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.08.19-07.03.46:169][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.08.19-07.03.46:172][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.08.19-07.03.46:172][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.08.19-07.03.46:172][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.08.19-07.03.46:172][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.08.19-07.03.46:172][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.08.19-07.03.46:172][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.08.19-07.03.46:172][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.08.19-07.03.46:172][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.08.19-07.03.46:172][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.08.19-07.03.46:172][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.08.19-07.03.46:172][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.08.19-07.03.46:172][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.08.19-07.03.46:184][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.08.19-07.03.46:184][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.08.19-07.03.46:227][  0]LogAudioMixer: Display: Using Audio Device DELL U2719D (NVIDIA High Definition Audio)
+[2021.08.19-07.03.46:228][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.08.19-07.03.46:229][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.08.19-07.03.46:230][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.08.19-07.03.46:230][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.08.19-07.03.46:230][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.08.19-07.03.46:230][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.08.19-07.03.46:231][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.08.19-07.03.46:231][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.08.19-07.03.46:231][  0]LogInit: FAudioDevice initialized.
+[2021.08.19-07.03.46:231][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.08.19-07.03.46:231][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.08.19-07.03.46:264][  0]LogDerivedDataCache: Saved boot cache 0.03s 79MB C:/Users/nilas/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.08.19-07.03.46:266][  0]LogInit: Texture streaming: Enabled
+[2021.08.19-07.03.46:273][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.08.19-07.03.46:275][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.08.19-07.03.46:275][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.08.19-07.03.46:276][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.08.19-07.03.46:294][  0]LogInit: Transaction tracking system initialized
+[2021.08.19-07.03.46:306][  0]BlueprintLog: New page: Editor Load
+[2021.08.19-07.03.46:345][  0]LocalizationService: Localization service is disabled
+[2021.08.19-07.03.46:358][  0]TimingProfiler: Initialize
+[2021.08.19-07.03.46:358][  0]TimingProfiler: OnSessionChanged
+[2021.08.19-07.03.46:358][  0]LoadingProfiler: Initialize
+[2021.08.19-07.03.46:358][  0]LoadingProfiler: OnSessionChanged
+[2021.08.19-07.03.46:358][  0]NetworkingProfiler: Initialize
+[2021.08.19-07.03.46:358][  0]NetworkingProfiler: OnSessionChanged
+[2021.08.19-07.03.46:358][  0]MemoryProfiler: Initialize
+[2021.08.19-07.03.46:358][  0]MemoryProfiler: OnSessionChanged
+[2021.08.19-07.03.46:364][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_11'
+[2021.08.19-07.03.46:364][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_11
+[2021.08.19-07.03.46:412][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.19-07.03.46:412][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.08.19-07.03.46:469][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.08.19-07.03.46:469][  0]LogCook: Display: Mobile HDR setting 1
+[2021.08.19-07.03.46:664][  0]LogFileCache: Scanning file cache for directory 'C:/Users/nilas/Documents/luton/Content/' took 0.02s
+[2021.08.19-07.03.46:664][  0]LogVPUtilitiesEditor: VP Scouting subsystem initialized.
+[2021.08.19-07.03.46:887][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.08.19-07.03.46:889][  0]SourceControl: Source control is disabled
+[2021.08.19-07.03.46:889][  0]LogUnrealEdMisc: Loading editor; pre map load, took 5.856
+[2021.08.19-07.03.46:890][  0]Cmd: MAP LOAD FILE="../../../../../../Users/nilas/Documents/luton/Content/Maps/blankStartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.19-07.03.46:890][  0]LightingResults: New page: Lighting Build
+[2021.08.19-07.03.46:891][  0]LogStreaming: Display: FlushAsyncLoading: 2 QueuedPackages, 0 AsyncPackages
+[2021.08.19-07.03.50:125][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.03.50:126][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.03.50:126][  0]MapCheck: New page: Map Check
+[2021.08.19-07.03.50:126][  0]LightingResults: New page: Lighting Build
+[2021.08.19-07.03.50:153][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.08.19-07.03.50:154][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'blankStartupMap'.
+[2021.08.19-07.03.50:155][  0]LogAIModule: Creating AISystem for world blankStartupMap
+[2021.08.19-07.03.50:156][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.19-07.03.50:162][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.08.19-07.03.50:162][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.19-07.03.50:162][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,129ms to complete.
+[2021.08.19-07.03.50:162][  0]LogFileHelpers: Loading map 'blankStartupMap' took 3.273
+[2021.08.19-07.03.50:166][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.132
+[2021.08.19-07.03.50:583][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.08.19-07.03.50:665][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.19-07.03.50:670][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.19-07.03.50:674][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.19-07.03.50:678][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.08.19-07.03.50:705][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0077 seconds. Added 3911 classes and 1015 folders.
+[2021.08.19-07.03.50:709][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.19-07.03.50:717][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.19-07.03.50:717][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:717][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.19-07.03.50:717][  0]LogPakFile: OnPakFileMounted2Time == 0.000004
+[2021.08.19-07.03.50:722][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.19-07.03.50:722][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:722][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.19-07.03.50:722][  0]LogPakFile: OnPakFileMounted2Time == 0.000005
+[2021.08.19-07.03.50:725][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.08.19-07.03.50:725][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:725][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.08.19-07.03.50:725][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.08.19-07.03.50:729][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.19-07.03.50:729][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:729][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.19-07.03.50:729][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.08.19-07.03.50:732][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.19-07.03.50:732][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:732][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.19-07.03.50:732][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.08.19-07.03.50:736][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.19-07.03.50:736][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:736][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.19-07.03.50:736][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.08.19-07.03.50:740][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.19-07.03.50:740][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:740][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.19-07.03.50:740][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.08.19-07.03.50:744][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.19-07.03.50:744][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:744][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.19-07.03.50:744][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.08.19-07.03.50:749][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.19-07.03.50:749][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:749][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.19-07.03.50:749][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.08.19-07.03.50:752][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.08.19-07.03.50:752][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:752][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.08.19-07.03.50:752][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.08.19-07.03.50:756][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.08.19-07.03.50:756][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:756][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.08.19-07.03.50:756][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.08.19-07.03.50:760][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.19-07.03.50:760][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:760][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.19-07.03.50:760][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.08.19-07.03.50:763][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.19-07.03.50:763][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:763][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.19-07.03.50:763][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.08.19-07.03.50:766][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.19-07.03.50:766][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:766][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.19-07.03.50:766][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.08.19-07.03.50:769][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.08.19-07.03.50:769][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:769][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.08.19-07.03.50:769][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.08.19-07.03.50:773][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.19-07.03.50:773][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:773][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.19-07.03.50:773][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.08.19-07.03.50:776][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.08.19-07.03.50:776][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:776][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.08.19-07.03.50:776][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.08.19-07.03.50:779][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.19-07.03.50:779][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:779][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.19-07.03.50:779][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.08.19-07.03.50:782][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.19-07.03.50:782][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:782][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.19-07.03.50:782][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2021.08.19-07.03.50:787][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.19-07.03.50:787][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:787][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.19-07.03.50:787][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.08.19-07.03.50:791][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.08.19-07.03.50:791][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:791][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.08.19-07.03.50:791][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.08.19-07.03.50:794][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.08.19-07.03.50:794][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:794][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.08.19-07.03.50:794][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.08.19-07.03.50:798][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.08.19-07.03.50:798][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:798][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.08.19-07.03.50:798][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.08.19-07.03.50:801][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.08.19-07.03.50:801][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:801][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.08.19-07.03.50:801][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.08.19-07.03.50:805][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.08.19-07.03.50:805][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:805][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.08.19-07.03.50:805][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.08.19-07.03.50:808][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.08.19-07.03.50:808][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.08.19-07.03.50:808][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.08.19-07.03.50:808][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.08.19-07.03.50:881][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.19-07.03.50:884][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.08.19-07.03.50:973][  0]LogSlate: Took 0.000117 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.08.19-07.03.50:974][  0]LogSlate: Took 0.000081 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.08.19-07.03.50:981][  0]LogSlate: Took 0.003992 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.08.19-07.03.51:091][  0]LogRenderer: Reallocating scene render targets to support 1592x808 Format 10 NumSamples 1 (Frame:1).
+[2021.08.19-07.03.51:347][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.08.19-07.03.51:347][  0]LogInput: Warning: Action Jump uses invalid key MotionController_Left_Trigger.
+[2021.08.19-07.03.51:347][  0]LogInput: Warning: Action ResetVR uses invalid key MotionController_Left_Grip1.
+[2021.08.19-07.03.51:347][  0]LogInput: Warning: Action Jump uses invalid key MotionController_Right_Trigger.
+[2021.08.19-07.03.51:347][  0]LogInput: Warning: Action Jump uses invalid key OculusTouchpad_Touchpad.
+[2021.08.19-07.03.51:347][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.08.19-07.03.51:347][  0]LogLoad: (Engine Initialization) Total time: 10.31 seconds
+[2021.08.19-07.03.51:347][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.08.19-07.03.51:347][  0]LogInit: First time updating LLM stats...
+[2021.08.19-07.03.51:415][  0]LogAssetRegistry: Asset discovery search completed in 7.9482 seconds
+[2021.08.19-07.03.51:417][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.08.19-07.03.51:471][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.08.19-07.07.06:426][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.08.19-07.07.06:435][369]LogSlate: Took 0.003669 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.19-07.07.06:458][369]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/blankStartupMap.blankStartupMap
+[2021.08.19-07.07.06:458][369]Cmd: MAP LOAD FILE="../../../../../../Users/nilas/Documents/luton/Content/Maps/blankStartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.08.19-07.07.06:458][369]LightingResults: New page: Lighting Build
+[2021.08.19-07.07.06:458][369]LoadErrors: New page: Loading map: blankStartupMap.umap
+[2021.08.19-07.07.06:459][369]LogWorld: UWorld::CleanupWorld for blankStartupMap, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.07.06:459][369]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.07.06:460][369]MapCheck: New page: Map Check
+[2021.08.19-07.07.06:460][369]LightingResults: New page: Lighting Build
+[2021.08.19-07.07.06:465][369]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.08.19-07.07.06:466][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.08.19-07.07.06:471][369]LogAudio: Display: Audio Device (ID: 1) registered with world 'blankStartupMap'.
+[2021.08.19-07.07.06:472][369]LogAIModule: Creating AISystem for world blankStartupMap
+[2021.08.19-07.07.06:521][369]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.08.19-07.07.06:528][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.08.19-07.07.06:531][369]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.08.19-07.07.06:531][369]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,086ms to complete.
+[2021.08.19-07.07.06:531][369]LogFileHelpers: Loading map 'blankStartupMap' took 0.072
+[2021.08.19-07.25.36:428][ 34]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.08.19-07.25.36:446][ 34]LogContentBrowser: Creating deferred item: NewFolder
+[2021.08.19-07.25.42:120][703]LogContentBrowser: Attempting asset rename: NewFolder -> temp_anims
+[2021.08.19-07.25.42:120][703]LogContentBrowser: End creating deferred item NewFolder
+[2021.08.19-07.25.51:110][693]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\nilas\Documents\SmartsuitStudioProjects\luton city\MotionLibrary\Take_One_d.o.o-Standing_Crawl-fef253c4.fbx)
+[2021.08.19-07.25.51:127][693]LogFbx: Loading FBX Scene from C:\Users\nilas\Documents\SmartsuitStudioProjects\luton city\MotionLibrary\Take_One_d.o.o-Standing_Crawl-fef253c4.fbx
+[2021.08.19-07.25.51:181][693]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.19-07.26.42:259][693]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.19-07.26.42:291][693]FBXImport: Error: Mesh contains Root bone as root but animation doesn't contain the root track.
+Import failed. 
+[2021.08.19-07.26.42:291][693]FBXImport: Error: Import failed. 
+[2021.08.19-07.26.48:559][693]LogSlate: Window 'Message' being destroyed
+[2021.08.19-07.26.48:562][693]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\nilas\Documents\SmartsuitStudioProjects\luton city\MotionLibrary\Take_One_d.o.o-Standing_Crawl-fef253c4.fbx'. Failed to create asset '/Game/temp_anims/Take_One_d_o_o-Standing_Crawl-fef253c4'.
+Please see Output Log for details.
+[2021.08.19-07.26.48:562][693]LogAssetTools: Warning: Failed to import 'C:\Users\nilas\Documents\SmartsuitStudioProjects\luton city\MotionLibrary\Take_One_d.o.o-Standing_Crawl-fef253c4.fbx'. Failed to create asset '/Game/temp_anims/Take_One_d_o_o-Standing_Crawl-fef253c4'.
+Please see Output Log for details.
+[2021.08.19-07.26.48:608][693]LogSlate: Took 0.005732 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.08.19-07.26.50:381][886]LogSlate: Window 'Message Log' being destroyed
+[2021.08.19-07.26.50:385][886]LogSlate: Window 'Message Log' being destroyed
+[2021.08.19-07.32.31:772][667]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\nilas\Desktop\ml.fbx)
+[2021.08.19-07.32.31:778][667]LogFbx: Loading FBX Scene from C:\Users\nilas\Desktop\ml.fbx
+[2021.08.19-07.32.31:813][667]LogFbx: FBX Scene Loaded Succesfully
+[2021.08.19-07.32.39:853][667]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.08.19-07.32.39:888][667]LogFbx: Warning: Not valid bind pose for Pose (Cube.001) - Node Cube : The relative matrices do not match
+[2021.08.19-07.32.39:888][667]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2021.08.19-07.32.39:890][667]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Cube
+[2021.08.19-07.32.39:890][667]LogFbx: Warning: Recreating bind pose succeeded.
+[2021.08.19-07.32.39:891][667]LogFbx: Triangulating skeletal mesh Cube
+[2021.08.19-07.32.39:893][667]LogFbx: Warning: Bones digested - 70  Depth of hierarchy - 12
+[2021.08.19-07.32.39:896][667]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2021.08.19-07.32.39:897][667]LogSkeletalMesh: Building Skeletal Mesh ml...
+[2021.08.19-07.32.39:898][667]LogSkeletalMesh: Section 0: Material=0, 12 triangles
+[2021.08.19-07.32.39:898][667]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/temp_anims/ml.ml
+[2021.08.19-07.32.39:903][667]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.32.39:904][667]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(0) Reference
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(1) Hips
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(2) Spine
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(3) Spine1
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(4) Neck
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(5) Head
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(6) HeadNub
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(7) HeadNub_end
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(8) LeftShoulder
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(9) LeftArm
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(10) LeftForeArm
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(11) LeftHand
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(12) LeftHandThumb1
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(13) LeftHandThumb2
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(14) LeftHandThumb3
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(15) LeftHandThumb3_end
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(16) LeftHandIndex1
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(17) LeftHandIndex2
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(18) LeftHandIndex3
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(19) LeftHandIndex3_end
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(20) LeftHandMiddle1
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(21) LeftHandMiddle2
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(22) LeftHandMiddle3
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(23) LeftHandMiddle3_end
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(24) LeftHandRing1
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(25) LeftHandRing2
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(26) LeftHandRing3
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(27) LeftHandRing3_end
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(28) LeftHandPinky1
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(29) LeftHandPinky2
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(30) LeftHandPinky3
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(31) LeftHandPinky3_end
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(32) RightShoulder
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(33) RightArm
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(34) RightForeArm
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(35) RightHand
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(36) RightHandThumb1
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(37) RightHandThumb2
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(38) RightHandThumb3
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(39) RightHandThumb3_end
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(40) RightHandIndex1
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(41) RightHandIndex2
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(42) RightHandIndex3
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(43) RightHandIndex3_end
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(44) RightHandMiddle1
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(45) RightHandMiddle2
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(46) RightHandMiddle3
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(47) RightHandMiddle3_end
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(48) RightHandRing1
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(49) RightHandRing2
+[2021.08.19-07.32.39:907][667]LogFbx: SortedLinks :(50) RightHandRing3
+[2021.08.19-07.32.39:908][667]LogFbx: SortedLinks :(51) RightHandRing3_end
+[2021.08.19-07.32.39:908][667]LogFbx: SortedLinks :(52) RightHandPinky1
+[2021.08.19-07.32.39:908][667]LogFbx: SortedLinks :(53) RightHandPinky2
+[2021.08.19-07.32.39:908][667]LogFbx: SortedLinks :(54) RightHandPinky3
+[2021.08.19-07.32.39:908][667]LogFbx: SortedLinks :(55) RightHandPinky3_end
+[2021.08.19-07.32.39:908][667]LogFbx: SortedLinks :(56) LeftUpLeg
+[2021.08.19-07.32.39:908][667]LogFbx: SortedLinks :(57) LeftLeg
+[2021.08.19-07.32.39:908][667]LogFbx: SortedLinks :(58) LeftFoot
+[2021.08.19-07.32.39:908][667]LogFbx: SortedLinks :(59) LeftToeBase
+[2021.08.19-07.32.39:908][667]LogFbx: SortedLinks :(60) LeftToeNub
+[2021.08.19-07.32.39:908][667]LogFbx: SortedLinks :(61) LeftToeNub_end
+[2021.08.19-07.32.39:908][667]LogFbx: SortedLinks :(62) RightUpLeg
+[2021.08.19-07.32.39:908][667]LogFbx: SortedLinks :(63) RightLeg
+[2021.08.19-07.32.39:908][667]LogFbx: SortedLinks :(64) RightFoot
+[2021.08.19-07.32.39:908][667]LogFbx: SortedLinks :(65) RightToeBase
+[2021.08.19-07.32.39:908][667]LogFbx: SortedLinks :(66) RightToeNub
+[2021.08.19-07.32.39:908][667]LogFbx: SortedLinks :(67) RightToeNub_end
+[2021.08.19-07.32.39:908][667]LogFbx: SortedLinks :(68) Prop
+[2021.08.19-07.32.39:908][667]LogFbx: SortedLinks :(69) Prop_end
+[2021.08.19-07.32.39:909][667]LogFbx: Parsing AnimStack Reference|Reference|ed2ca292-d3b1-49c6-b9ec-fb3c21977bc8|Emote_Dance_Low_
+[2021.08.19-07.33.14:025][667]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/temp_anims/ml_Anim.ml_Anim
+[2021.08.19-07.33.14:040][667]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.08.19-07.33.14:041][667]FBXImport: Warning: The following bones are missing from the bind pose:
+HeadNub_end  
+LeftHandThumb3_end  
+LeftHandIndex3_end  
+LeftHandMiddle3_end  
+LeftHandRing3_end  
+LeftHandPinky3_end  
+RightHandThumb3_end  
+RightHandIndex3_end  
+RightHandMiddle3_end  
+RightHandRing3_end  
+RightHandPinky3_end  
+LeftToeNub_end  
+RightToeNub_end  
+Prop_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2021.08.19-07.34.42:585][ 18]LogSlate: Window 'Message Log' being destroyed
+[2021.08.19-07.34.42:588][ 18]LogSlate: Window 'Message Log' being destroyed
+[2021.08.19-07.34.51:400][898]LogHttp: Warning: 0000013D7EC64800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB9833877-4DE0-AA00-91BD-F582AC6CF320%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=33e249dd479828e9674c3caaeeb60784%7Ce93fca2ef9644748a74e191d04b90ad0%7C17e43387-f69a-4fb8-8eef-5daf5aafd8db&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.08.19-07.34.51:400][898]LogHttp: Warning: 0000013D7EC64800: request failed, libcurl error: 0 (No error)
+[2021.08.19-07.34.51:400][898]LogHttp: Warning: 0000013D7EC64800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x13d1d427eb0 [can pipeline])
+[2021.08.19-07.34.51:400][898]LogHttp: Warning: 0000013D7EC64800: libcurl info message cache 1 (Re-using existing connection! (#1) with host datarouter.ol.epicgames.com)
+[2021.08.19-07.34.51:400][898]LogHttp: Warning: 0000013D7EC64800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.224.191.7) port 443 (#1))
+[2021.08.19-07.34.51:400][898]LogHttp: Warning: 0000013D7EC64800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.08.19-07.34.51:400][898]LogHttp: Warning: 0000013D7EC64800: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2021.08.19-07.34.51:400][898]LogHttp: Warning: 0000013D7EC64800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.08.19-07.34.51:400][898]LogHttp: Warning: 0000013D7EC64800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.08.19-07.34.51:400][898]LogHttp: Warning: 0000013D7EC64800: libcurl info message cache 7 (Closing connection 1)
+[2021.08.19-07.34.51:400][898]LogHttp: Warning: 0000013D7EC64800: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.08.19-07.34.51:401][898]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB9833877-4DE0-AA00-91BD-F582AC6CF320%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.26.2-15973114%2B%2B%2BUE4%2BRelease-4.26&UserID=33e249dd479828e9674c3caaeeb60784%7Ce93fca2ef9644748a74e191d04b90ad0%7C17e43387-f69a-4fb8-8eef-5daf5aafd8db&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2021.08.19-07.34.57:949][674]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.08.19-07.34.57:952][674]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.34.57:952][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.34.57:961][674]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.34.57:961][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.34.59:662][807]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/temp_anims/ml_Skeleton.ml_Skeleton
+[2021.08.19-07.34.59:670][807]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.08.19-07.34.59:822][807]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-07.34.59:826][807]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2021.08.19-07.35.00:109][808]LogRenderer: Reallocating scene render targets to support 1592x964 Format 10 NumSamples 1 (Frame:1).
+[2021.08.19-07.35.06:240][366]LogRenderer: Reallocating scene render targets to support 1592x1244 Format 10 NumSamples 1 (Frame:581).
+[2021.08.19-07.38.12:966][340]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.08.19-07.38.16:152][340]LogSlate: Window 'Save Mapping' being destroyed
+[2021.08.19-07.38.16:207][340]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/ml_boneMappingB4084DFC4B1763E4265D5786CFC90816.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/_retargetting/ml_boneMapping.uasset'
+[2021.08.19-07.38.16:222][340]AssetCheck: New page: Asset Save: ml_boneMapping
+[2021.08.19-07.38.16:222][340]LogContentValidation: Display: Validating NodeMappingContainer /Game/Characters/_retargetting/ml_boneMapping.ml_boneMapping
+[2021.08.19-07.38.19:258][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.08.19-07.38.19:264][617]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/blankStartupMap' took 0.013
+[2021.08.19-07.38.19:264][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/temp_anims/ml] ([1] browsable assets)...
+[2021.08.19-07.38.19:273][617]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/temp_anims/ml.ml]
+[2021.08.19-07.38.19:273][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/temp_anims/ml]
+[2021.08.19-07.38.19:273][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/temp_anims/ml" FILE="../../../../../../Users/nilas/Documents/luton/Saved/Autosaves/Game/temp_anims/ml_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.08.19-07.38.19:279][617]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/ml_Auto1CABA32D24CBF750013A86186880D3460.tmp' to '../../../../../../Users/nilas/Documents/luton/Saved/Autosaves/Game/temp_anims/ml_Auto1.uasset'
+[2021.08.19-07.38.19:279][617]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/temp_anims/ml_Skeleton] ([1] browsable assets)...
+[2021.08.19-07.38.19:279][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/temp_anims/ml_Skeleton]
+[2021.08.19-07.38.19:279][617]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/temp_anims/ml_Skeleton" FILE="../../../../../../Users/nilas/Documents/luton/Saved/Autosaves/Game/temp_anims/ml_Skeleton_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.08.19-07.38.19:281][617]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/ml_Skeleton_Auto187910C2444B7CDD4D018BE94F6682DB4.tmp' to '../../../../../../Users/nilas/Documents/luton/Saved/Autosaves/Game/temp_anims/ml_Skeleton_Auto1.uasset'
+[2021.08.19-07.38.19:282][617]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/temp_anims/ml_PhysicsAsset] ([1] browsable assets)...
+[2021.08.19-07.38.19:288][617]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/temp_anims/ml_PhysicsAsset.ml_PhysicsAsset]
+[2021.08.19-07.38.19:288][617]OBJ SavePackage: Finished generating thumbnails for package [/Game/temp_anims/ml_PhysicsAsset]
+[2021.08.19-07.38.19:292][617]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/ml_PhysicsAsset_Auto1CA1B2BD648A0B26D26E768A35FB88851.tmp' to '../../../../../../Users/nilas/Documents/luton/Saved/Autosaves/Game/temp_anims/ml_PhysicsAsset_Auto1.uasset'
+[2021.08.19-07.38.19:300][617]LogFileHelpers: Auto-saving content packages took 0.036
+[2021.08.19-07.38.31:314][946]LogSlate: Window 'ml_Skeleton' being destroyed
+[2021.08.19-07.38.41:097][953]LogSlate: Took 0.004309 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.08.19-07.38.41:142][953]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.19-07.38.50:267][984]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.08.19-07.38.50:270][984]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.38.50:270][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.38.50:274][984]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.38.50:274][984]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.38.59:741][968]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/temp_anims/ml.ml
+[2021.08.19-07.38.59:751][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-07.39.05:766][599]LogUObjectGlobals: Warning: Failed to find object 'Class None.ControlRigBlueprint'
+[2021.08.19-07.39.18:958][ 71]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/temp_anims/ml_Anim.ml_Anim
+[2021.08.19-07.39.18:967][ 71]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-07.39.19:196][ 71]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.19-07.39.25:981][797]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/temp_anims/ml_PhysicsAsset.ml_PhysicsAsset
+[2021.08.19-07.39.25:999][797]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2021.08.19-07.39.26:007][797]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.08.19-07.39.26:164][797]LogSlate: Took 0.003813 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.08.19-07.39.39:125][981]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.19-07.39.43:072][357]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.08.19-07.39.43:076][357]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.39.43:077][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.39.43:084][357]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.39.43:084][357]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.40.28:420][373]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-07.40.33:653][833]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.19-07.40.41:028][602]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.08.19-07.40.41:031][602]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.40.41:031][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.40.41:040][602]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.40.41:040][602]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.40.48:302][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/temp_anims/ml_Skeleton" FILE="../../../../../../Users/nilas/Documents/luton/Content/temp_anims/ml_Skeleton.uasset" SILENT=true
+[2021.08.19-07.40.48:304][240]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/ml_SkeletonE8B180D34E4019FA563371BC1E59ECE1.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/temp_anims/ml_Skeleton.uasset'
+[2021.08.19-07.40.48:310][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/temp_anims/ml_Anim" FILE="../../../../../../Users/nilas/Documents/luton/Content/temp_anims/ml_Anim.uasset" SILENT=true
+[2021.08.19-07.40.48:334][240]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/ml_Anim6EE8EFC246822606B5B66797AE31EA9C.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/temp_anims/ml_Anim.uasset'
+[2021.08.19-07.40.48:334][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/temp_anims/ml_PhysicsAsset" FILE="../../../../../../Users/nilas/Documents/luton/Content/temp_anims/ml_PhysicsAsset.uasset" SILENT=true
+[2021.08.19-07.40.48:335][240]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/ml_PhysicsAsset96D5CAC544D4191E5F6E5A89275BFE05.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/temp_anims/ml_PhysicsAsset.uasset'
+[2021.08.19-07.40.48:336][240]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/temp_anims/ml" FILE="../../../../../../Users/nilas/Documents/luton/Content/temp_anims/ml.uasset" SILENT=true
+[2021.08.19-07.40.48:339][240]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/ml4EBAF19E4CE92479044BE9B50240470A.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/temp_anims/ml.uasset'
+[2021.08.19-07.40.48:351][240]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.19-07.40.48:351][240]LogContentValidation: Display: Validating AnimSequence /Game/temp_anims/ml_Anim.ml_Anim
+[2021.08.19-07.40.48:351][240]LogContentValidation: Display: Validating PhysicsAsset /Game/temp_anims/ml_PhysicsAsset.ml_PhysicsAsset
+[2021.08.19-07.40.48:351][240]LogContentValidation: Display: Validating Skeleton /Game/temp_anims/ml_Skeleton.ml_Skeleton
+[2021.08.19-07.40.48:351][240]LogContentValidation: Display: Validating SkeletalMesh /Game/temp_anims/ml.ml
+[2021.08.19-07.40.55:303][  9]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-07.41.07:260][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/temp_anims/ml_Anim" FILE="../../../../../../Users/nilas/Documents/luton/Content/Characters/temp_anims/ml_Anim.uasset" SILENT=true
+[2021.08.19-07.41.07:284][ 87]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/ml_AnimB9B27E64483235E87885BEA102A96FBC.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/temp_anims/ml_Anim.uasset'
+[2021.08.19-07.41.07:294][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/temp_anims/ml_PhysicsAsset" FILE="../../../../../../Users/nilas/Documents/luton/Content/Characters/temp_anims/ml_PhysicsAsset.uasset" SILENT=true
+[2021.08.19-07.41.07:298][ 87]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/ml_PhysicsAsset8F47DE484955410A48C7EBA623F7AD09.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/temp_anims/ml_PhysicsAsset.uasset'
+[2021.08.19-07.41.07:299][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/temp_anims/ml_Skeleton" FILE="../../../../../../Users/nilas/Documents/luton/Content/Characters/temp_anims/ml_Skeleton.uasset" SILENT=true
+[2021.08.19-07.41.07:301][ 87]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/ml_Skeleton72487E9449FD56AE8C2FA48066102537.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/temp_anims/ml_Skeleton.uasset'
+[2021.08.19-07.41.07:311][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/temp_anims/ml" FILE="../../../../../../Users/nilas/Documents/luton/Content/Characters/temp_anims/ml.uasset" SILENT=true
+[2021.08.19-07.41.07:316][ 87]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/mlED6E4DDB46A5EB29B1A7E398985D79EA.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/temp_anims/ml.uasset'
+[2021.08.19-07.41.07:357][ 87]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/temp_anims/ml.ml'
+[2021.08.19-07.41.07:374][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.08.19-07.41.07:385][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.08.19-07.41.07:390][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.08.19-07.41.07:396][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.08.19-07.41.07:407][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.08.19-07.41.07:413][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.08.19-07.41.07:435][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/_retargetting/ml_boneMapping" FILE="../../../../../../Users/nilas/Documents/luton/Content/Characters/_retargetting/ml_boneMapping.uasset" SILENT=true
+[2021.08.19-07.41.07:439][ 87]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/ml_boneMapping4E71D62041EF09F63AE2FA97966C392A.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/_retargetting/ml_boneMapping.uasset'
+[2021.08.19-07.41.07:484][ 87]AssetCheck: New page: Asset Save: multiple assets
+[2021.08.19-07.41.07:484][ 87]LogContentValidation: Display: Validating NodeMappingContainer /Game/Characters/_retargetting/ml_boneMapping.ml_boneMapping
+[2021.08.19-07.41.07:484][ 87]LogContentValidation: Display: Validating AnimSequence /Game/Characters/temp_anims/ml_Anim.ml_Anim
+[2021.08.19-07.41.07:484][ 87]LogContentValidation: Display: Validating PhysicsAsset /Game/Characters/temp_anims/ml_PhysicsAsset.ml_PhysicsAsset
+[2021.08.19-07.41.07:484][ 87]LogContentValidation: Display: Validating Skeleton /Game/Characters/temp_anims/ml_Skeleton.ml_Skeleton
+[2021.08.19-07.41.07:484][ 87]LogContentValidation: Display: Validating SkeletalMesh /Game/Characters/temp_anims/ml.ml
+[2021.08.19-07.41.10:952][405]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Bartender/bartender_Skeleton.bartender_Skeleton
+[2021.08.19-07.41.10:954][405]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-07.41.19:876][240]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.19-07.41.23:473][529]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ml_Anim.ml_Anim
+[2021.08.19-07.41.23:473][529]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ml_Anim.ml_Anim
+[2021.08.19-07.41.23:503][529]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.08.19-07.41.23:520][529]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.41.23:520][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.41.23:542][529]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.41.23:542][529]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.41.23:806][535]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ml_Anim.ml_Anim
+[2021.08.19-07.41.33:981][276]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/ml_Anim.ml_Anim
+[2021.08.19-07.41.34:006][276]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-07.41.34:414][276]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.08.19-07.41.42:633][929]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-07.41.53:654][ 53]LogActorFactory: Actor Factory created Plane
+[2021.08.19-07.41.53:927][ 72]LogActorFactory: Actor Factory created Plane
+[2021.08.19-07.41.54:805][167]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.08.19-07.43.51:921][576]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Showgirl/showgirl_Skeleton.showgirl_Skeleton
+[2021.08.19-07.43.51:923][576]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-07.44.03:734][657]LogSlate: Window 'Save Mapping' being destroyed
+[2021.08.19-07.45.40:292][451]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.19-07.45.49:152][341]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ml_Anim1.ml_Anim1
+[2021.08.19-07.45.49:152][341]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ml_Anim1.ml_Anim1
+[2021.08.19-07.45.49:186][341]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.08.19-07.45.49:203][341]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.45.49:203][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.45.49:231][341]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.45.49:232][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.45.49:502][346]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ml_Anim1.ml_Anim1
+[2021.08.19-07.46.08:990][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.08.19-07.46.10:096][543]LogSlate: Window 'Delete Assets' being destroyed
+[2021.08.19-07.46.10:155][543]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.46.10:155][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.46.10:250][543]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.46.10:250][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.46.10:266][543]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.46.10:266][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.46.10:271][543]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/ml_Anim1.ml_Anim1
+	Asset Name: /Game/ml_Anim.ml_Anim
+[2021.08.19-07.46.10:977][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.08.19-07.46.54:539][700]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Showgirl/showgirl_Skeleton" FILE="../../../../../../Users/nilas/Documents/luton/Content/Characters/Showgirl/showgirl_Skeleton.uasset" SILENT=true
+[2021.08.19-07.46.54:542][700]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/showgirl_Skeleton3832992E4730C4A50909CDBCAEA2727B.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/Showgirl/showgirl_Skeleton.uasset'
+[2021.08.19-07.46.54:549][700]AssetCheck: New page: Asset Save: showgirl_Skeleton
+[2021.08.19-07.46.54:549][700]LogContentValidation: Display: Validating Skeleton /Game/Characters/Showgirl/showgirl_Skeleton.showgirl_Skeleton
+[2021.08.19-07.47.05:910][854]Cmd: TRANSACTION UNDO
+[2021.08.19-07.47.05:910][854]LogEditorTransaction: Undo Rotate Bone
+[2021.08.19-07.47.06:275][854]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-07.47.06:276][854]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-07.47.06:277][854]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-07.47.06:278][854]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.08.19-07.47.06:286][854]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-07.47.06:289][854]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-07.47.45:176][939]Cmd: TRANSACTION UNDO
+[2021.08.19-07.47.45:176][939]LogEditorTransaction: Undo Rotate Bone
+[2021.08.19-07.47.45:519][939]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-07.47.45:520][939]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-07.47.45:521][939]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-07.47.45:522][939]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_14:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2021.08.19-07.47.45:528][939]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-07.47.45:529][939]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_26:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.08.19-07.48.17:558][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Showgirl/showgirl_Skeleton" FILE="../../../../../../Users/nilas/Documents/luton/Content/Characters/Showgirl/showgirl_Skeleton.uasset" SILENT=true
+[2021.08.19-07.48.17:561][252]LogSavePackage: Moving '../../../../../../Users/nilas/Documents/luton/Saved/showgirl_Skeleton12BDD1F343DB09288A13DFBAE2E953F4.tmp' to '../../../../../../Users/nilas/Documents/luton/Content/Characters/Showgirl/showgirl_Skeleton.uasset'
+[2021.08.19-07.48.17:568][252]AssetCheck: New page: Asset Save: showgirl_Skeleton
+[2021.08.19-07.48.17:568][252]LogContentValidation: Display: Validating Skeleton /Game/Characters/Showgirl/showgirl_Skeleton.showgirl_Skeleton
+[2021.08.19-07.48.53:467][821]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.48.53:467][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.48.53:531][821]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.48.53:531][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.48.53:538][821]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.48.53:538][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.48.53:591][821]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.48.53:591][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.48.53:607][821]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.48.53:607][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.48.53:645][821]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.08.19-07.48.53:645][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.08.19-07.48.53:735][821]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.08.19-07.48.57:291][103]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/temp_anims/ml_Anim.ml_Anim
+[2021.08.19-07.48.57:291][103]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Characters/temp_anims/ml_Anim.ml_Anim
+[2021.08.19-07.48.57:291][103]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.08.19-07.48.57:964][103]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.673 s
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: === Handled ensure: ===
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: 
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: Ensure condition failed: EditableBoneVisibilityStates.Num() >= OutRequiredBones.Num() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/Components/SkeletalMeshComponent.cpp] [Line: 1712]
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: Skeletal Mesh asset 'ml' has incorrect BoneVisibilityStates. # of BoneVisibilityStatese (0), # of OutRequiredBones (70)
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: Stack: 
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ffa0a02d4c0 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ffa08ac5dc2 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ff9fedf1b31 UE4Editor-AnimGraphRuntime.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ff9fee297b2 UE4Editor-AnimGraphRuntime.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ffa08750497 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ffa087053c2 UE4Editor-Engine.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ffa060e56e2 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ff9fba93f56 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ff9fba70ba5 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ff9fba9303e UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ff9fb9ec6c7 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ffa06c0c57c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ffa06bca137 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ffa07e2859e UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ffa07e4071e UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ffa07c846be UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ffa07d07f14 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ffa07cf0337 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ffa07ce3632 UE4Editor-Slate.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ffa6964bcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ffa69639197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ffa6964e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ffa69634310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ffa9529e858 USER32.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ffa9529e299 USER32.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ffa6964f914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ff75d568848 UE4Editor.exe!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ff75d58117c UE4Editor.exe!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ff75d58125a UE4Editor.exe!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ff75d5952bd UE4Editor.exe!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ff75d597fea UE4Editor.exe!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ffa963d7034 KERNEL32.DLL!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: [Callstack] 0x00007ffa96de2651 ntdll.dll!UnknownFunction []
+[2021.08.19-07.48.57:964][103]LogOutputDevice: Error: 
