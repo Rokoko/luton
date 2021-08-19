@@ -1453,3 +1453,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.08.19-09.07.48:504][354]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Rokoko/Animations/take-2_DEFAULT_BW1.take-2_DEFAULT_BW1
 [2021.08.19-09.07.48:504][354]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Rokoko/Animations/take-1_DEFAULT_BW1.take-1_DEFAULT_BW1
 [2021.08.19-09.07.48:504][354]LogContentValidation: Display: Validating AnimSequence /Game/Characters/Rokoko/Animations/take-5_DEFAULT_BW1.take-5_DEFAULT_BW1
+[2021.08.19-09.08.35:788][294]LogLinker: Warning: Failed to load '/Game/Maps/Bar_BuiltData': Can't find file.
+[2021.08.19-09.08.35:788][294]LogLinker: Warning: Failed to load '/Game/Maps/Bar_BuiltData': Can't find file.
+[2021.08.19-09.08.35:788][294]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Maps/Bar_BuiltData.Bar_BuiltData'
