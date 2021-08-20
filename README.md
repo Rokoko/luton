@@ -1,5 +1,6 @@
 
 # Luton City - An open gangster world
+Welcome to the Luton City universe — magical for some, dangerous for all:skull_and_crossbones:
 ## _A collaboration project between [Truemax Academy](https://truemax.com/) and [Rokoko](https://www.rokoko.com/)_
 
 This project is setup to be used with the live streaming functionality in found in Rokoko Studio. However, any mocap system, with live streaming, will work with this project.
