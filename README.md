@@ -74,16 +74,12 @@ If you need additional help with setting up live streaming, feel free to head ov
 
 ## Credits
 
-
-Oliver Lundt - CG Artist
-Simon Fischer Hansen - Character Artist
-Kostas Katsinas - Character Arist
-[Simone Van Hofwegen - Character Artist](https://www.artstation.com/simonevanhofwegen)
-Michael David Larsen - Unreal Engine Artist
-Alexander Weilguny Jensen - Unreal Engine Artist
-[Victor Skarbye - CG Artist and Project Lead](https://www.linkedin.com/in/victor-skarbye-99111716b/)
-[Nilas Niebuhr Christensen - Technical Artist](https://www.linkedin.com/in/nilas-christensen-54b51a137/)
-[Peter Jensen - Lead Animator](https://www.youtube.com/channel/UCZOOQUHCdoRkpIo9pTPiC4Q)
-
-
-
+[Oliver Lundt - CG Artist](https://www.instagram.com/o.lundt_3d/)  
+[Simon Fischer Hansen - Character Artist](https://www.linkedin.com/in/simon-long-fischer-hansen-a64244201/)  
+[Kostas Katsinas - Character Arist](https://www.instagram.com/kostaskatsinas15/)  
+[Simone Van Hofwegen - Character Artist](https://www.artstation.com/simonevanhofwegen)  
+[Michael David Larsen - Unreal Engine Artist](https://www.linkedin.com/in/michael-david-larsen-18440488/?originalSubdomain=dk)  
+[Alexander Weilguny Jensen - Unreal Engine Artist](https://www.linkedin.com/in/alexander-weilguny-jensen-711b70150/)  
+[Victor Skarbye - CG Artist and Project Lead](https://www.linkedin.com/in/victor-skarbye-99111716b/)  
+[Nilas Niebuhr Christensen - Technical Artist](https://www.linkedin.com/in/nilas-christensen-54b51a137/)  
+[Peter Jensen - Lead Animator](https://www.youtube.com/channel/UCZOOQUHCdoRkpIo9pTPiC4Q)  
