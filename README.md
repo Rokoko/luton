@@ -77,6 +77,7 @@ If you need additional help with setting up live streaming, feel free to head ov
 
 [Oliver Lundt - CG Artist](https://www.instagram.com/o.lundt_3d/)  
 [Simon Fischer Hansen - Character Artist](https://www.linkedin.com/in/simon-long-fischer-hansen-a64244201/)  
+[Daniel Isak Mankjær - CG Artist](https://www.artstation.com/danielmankjr?fbclid=IwAR2Xi5nq94JfAClWAKcIGlLq9Uremd6AdzCohar8PbbsrlZIVn46F11GZbQ)
 [Kostas Katsinas - Character Arist](https://www.instagram.com/kostaskatsinas15/)  
 [Simone Van Hofwegen - Character Artist](https://www.artstation.com/simonevanhofwegen)  
 [Michael David Larsen - Unreal Engine Artist](https://www.linkedin.com/in/michael-david-larsen-18440488/?originalSubdomain=dk)  
