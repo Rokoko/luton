@@ -38,6 +38,8 @@ If you ever want to experiment with adding content, feel free to "Fork" this rep
 
 ## Installation
 
+PSA: Head over to the "Wiki" of this repositiory for additional information and tutorials.
+
 The Luton City project requires [Unreal Engine 4.26.2](https://docs.unrealengine.com/4.26/en-US/WhatsNew/Builds/ReleaseNotes/4_26/) to run.
 
 - In the top right corner of this repository click on the green "Code" button and the "Download ZIP"
@@ -69,4 +71,19 @@ If you need additional help with setting up live streaming, feel free to head ov
 ![michaelBarnes](https://user-images.githubusercontent.com/48320346/130202862-cd961a82-3171-4be5-b38e-8e197f663832.png)
 ![oliviaGreen](https://user-images.githubusercontent.com/48320346/130202863-415f30e8-3760-4176-933c-2b284dbe25f0.png)
 ![roseWilliams](https://user-images.githubusercontent.com/48320346/130202864-e294e269-f15b-4f2d-91a5-4befd21f3ca8.png)
+
+## Credits
+
+
+Oliver Lundt - CG Artist
+Simon Fischer Hansen - Character Artist
+Kostas Katsinas - Character Arist
+[Simone Van Hofwegen - Character Artist](https://www.artstation.com/simonevanhofwegen)
+Michael David Larsen - Unreal Engine Artist
+Alexander Weilguny Jensen - Unreal Engine Artist
+[Victor Skarbye - CG Artist and Project Lead](https://www.linkedin.com/in/victor-skarbye-99111716b/)
+[Nilas Niebuhr Christensen - Technical Artist](https://www.linkedin.com/in/nilas-christensen-54b51a137/)
+[Peter Jensen - Lead Animator](https://www.youtube.com/channel/UCZOOQUHCdoRkpIo9pTPiC4Q)
+
+
 
