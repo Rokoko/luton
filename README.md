@@ -4,6 +4,7 @@ Welcome to the Luton City universe — magical for some, dangerous for all:skull
 ## _A collaboration project between [Truemax Academy](https://truemax.com/) and [Rokoko](https://www.rokoko.com/)_
 
 This project is setup to be used with the live streaming functionality in found in Rokoko Studio. However, any mocap system, with live streaming, will work with this project.
+> Any bugs should be reported in the "Issues" section, found here https://github.com/Rokoko/luton/issues
 
 ### Requirements
 - Unreal Engine 4.26.2
