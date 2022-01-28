@@ -11,9 +11,9 @@ This project is setup to be used with the live streaming functionality in found 
 
 ## About
 
-Luton City is created as an open recording space. The idea is for users of the project to extend the world with new and exsiting content. This can either be props, characters, or even environments. There are no limits. Collaborate with us to add further expand the world of Luton City
+Luton City is created as an open recording space. The idea is for users of the project to extend the world with new and existing content. This can either be props, characters, or even environments. There are no limits. Collaborate with us to add further expand the world of Luton City
 
-If you ever want to experiment with adding content, feel free to "Fork" this reporsitory. There even is a possibility for your content to be added to the main project.
+If you ever want to experiment with adding content, feel free to "Fork" this repository. There even is a possibility for your content to be added to the main project.
 
 ## Whats included
 
@@ -40,7 +40,7 @@ If you ever want to experiment with adding content, feel free to "Fork" this rep
 
 ## Installation
 
-PSA: Head over to the "Wiki" of this repositiory for additional information and tutorials.
+PSA: Head over to the "Wiki" of this repository for additional information and tutorials.
 
 The Luton City project requires [Unreal Engine 4.26.2](https://docs.unrealengine.com/4.26/en-US/WhatsNew/Builds/ReleaseNotes/4_26/) to run.
 
